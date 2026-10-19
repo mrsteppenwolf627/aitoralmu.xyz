@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { articles } from '../../data/content';
+export function getStaticPaths() { return articles.map((article) => ({ params: { slug: article.slug }, props: { article } })); }
+const { article } = Astro.props;
+---
+<BaseLayout title={`${article.title} | aitoralmu.xyz`} description={article.excerpt}>
+  <main class="min-h-screen"><header class="mx-auto flex max-w-6xl items-center justify-between px-6 py-7"><a href="/" class="text-xl font-bold tracking-tight">aitor<span class="text-coral">almu</span><span class="text-cobalt">.</span></a><a href="/articulos/" class="text-sm font-bold">← Todos los artículos</a></header>
+    <article class="mx-auto max-w-3xl px-6 pb-24 pt-16"><p class="text-sm font-bold uppercase tracking-[.18em] text-coral">{article.category} · {article.readTime}</p><h1 class="mt-5 text-6xl font-bold leading-none">{article.title}</h1><p class="mt-8 text-xl leading-8 text-ink/70">{article.excerpt}</p><div class="mt-14 space-y-7 text-lg leading-8"><p>Este artículo forma parte del cuaderno de pruebas de aitoralmu.xyz. La versión completa documentará el proceso, las alternativas y los criterios para que puedas repetir la decisión en tu propio proyecto.</p><div class="rounded-3xl bg-mint p-7"><p class="text-base font-bold">Principio editorial</p><p class="mt-2 text-base">No recomendamos una herramienta solo porque sea popular. La comparamos con un caso de uso, un presupuesto y un resultado visible.</p></div><p>La página se ha preparado como estructura editorial inicial. En la siguiente iteración incorporaremos la investigación, capturas, tablas comparativas y recursos descargables.</p></div></article>
+  </main>
+</BaseLayout>

@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { tools } from '../../data/content';
+---
+<BaseLayout title="Herramientas digitales gratuitas | aitoralmu.xyz" description="Herramientas y recursos propios para elegir, revisar y automatizar tu stack digital.">
+  <main class="min-h-screen"><header class="mx-auto flex max-w-6xl items-center justify-between px-6 py-7"><a href="/" class="text-xl font-bold tracking-tight">aitor<span class="text-coral">almu</span><span class="text-cobalt">.</span></a><a href="/" class="text-sm font-bold">← Volver al inicio</a></header>
+    <section class="mx-auto max-w-6xl px-6 pb-24 pt-16"><p class="text-sm font-bold uppercase tracking-[.18em] text-cobalt">Caja de herramientas</p><h1 class="mt-4 max-w-3xl text-6xl font-bold leading-none">Recursos para hacer, medir y decidir.</h1><p class="mt-7 max-w-2xl text-lg leading-8 text-ink/70">Pequeñas herramientas propias que convierten una decisión compleja en un siguiente paso claro.</p><div class="mt-14 grid gap-5 md:grid-cols-3">{tools.map((tool, i) => <article class="rounded-[1.5rem] border border-ink/15 bg-white p-7"><span class="text-5xl font-bold text-coral">0{i + 1}</span><p class="mt-16 text-xs font-bold uppercase tracking-widest text-ink/50">{tool.status}</p><h2 class="mt-3 text-2xl font-bold">{tool.name}</h2><p class="mt-4 leading-7 text-ink/70">{tool.text}</p><button class="mt-8 rounded-full bg-ink px-5 py-3 text-sm font-bold text-white" disabled>Avísame cuando esté lista</button></article>)}</div></section>
+  </main>
+</BaseLayout>
