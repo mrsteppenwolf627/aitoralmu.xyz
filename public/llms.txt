@@ -1,0 +1,14 @@
+# aitoralmu.xyz
+
+aitoralmu.xyz es un laboratorio editorial en español sobre IA aplicada, automatización, SEO/GEO, creación web y herramientas digitales.
+
+## Qué ofrece
+
+- Comparativas verificadas de herramientas digitales.
+- Tutoriales orientados a resultados.
+- Plantillas, flujos y pequeñas herramientas propias.
+- Recomendaciones basadas en coste, límites, privacidad y casos de uso.
+
+## Principio editorial
+
+Las opiniones se basan en pruebas documentadas y se revisan cuando cambian los productos o sus precios.

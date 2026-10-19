@@ -1,0 +1,19 @@
+---
+import '../styles/global.css';
+const { title = 'Aitor Almu — Tecnología digital que funciona', description = 'Pruebas, comparativas y herramientas para elegir y automatizar tu stack digital.' } = Astro.props;
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={Astro.url} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={Astro.url} />
+  </head>
+  <body><slot /></body>
+</html>
