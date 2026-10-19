@@ -1,6 +1,14 @@
 ---
 import '../styles/global.css';
-const { title = 'Aitor Almu — Tecnología digital que funciona', description = 'Pruebas, comparativas y herramientas para elegir y automatizar tu stack digital.' } = Astro.props;
+const { title = 'Aitor Almu — Tecnología digital que funciona', description = 'Pruebas, comparativas y herramientas para elegir y automatizar tu stack digital.', type = 'website' } = Astro.props;
+const canonical = new URL(Astro.url.pathname, 'https://aitoralmu.xyz').toString();
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebSite', '@id': 'https://aitoralmu.xyz/#website', name: 'Aitor Almu', url: 'https://aitoralmu.xyz/', inLanguage: 'es-ES', description },
+    { '@type': 'Organization', '@id': 'https://aitoralmu.xyz/#organization', name: 'Aitor Almu', url: 'https://aitoralmu.xyz/' },
+  ],
+};
 ---
 <!doctype html>
 <html lang="es">
@@ -9,11 +17,15 @@ const { title = 'Aitor Almu — Tecnología digital que funciona', description =
     <meta name="viewport" content="width=device-width" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={Astro.url} />
+    <link rel="canonical" href={canonical} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content={Astro.url} />
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content="es_ES" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="theme-color" content="#10202b" />
+    <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
   </head>
   <body><slot /></body>
 </html>
