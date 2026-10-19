@@ -1,0 +1,70 @@
+BORRADOR DE BUSINESS BRIEF — aitoralmu.xyz
+Estado: BORRADOR. No válido hasta que el propietario revise cada dato marcado.
+Fecha: 2026-10-19
+Fuente de los datos: conversación del proyecto y estado de PROJECT_STATUS (verificar cada uno).
+
+1. IDENTIDAD DEL NEGOCIO
+- Nombre comercial y marca: aitoralmu.xyz [VALIDAR nombre comercial y razón social]
+- Propietario y rol: [FALTA] nombre completo y rol
+- Modelo de negocio: servicio (diseño y creación de webs)
+- Año de inicio y situación actual: [FALTA]
+- Sitio web: aitoralmu.xyz (dominio canónico según estado del proyecto; [VALIDAR] que está en producción)
+
+2. PROPUESTA DE VALOR
+- Frase: [FALTA] Propuesta de valor en una frase.
+- Diferenciadores: [FALTA] Tres diferenciadores verificables.
+
+3. CATÁLOGO DE SERVICIOS
+- Web estática en 24 h desde plantilla.
+  - Incluye: [FALTA] contenido exacto del servicio
+  - Plazo: 24 h [VALIDAR] desde qué momento se cuenta
+  - Precio: según paquete (ver sección 4)
+  - Alcance: nacional (España) [VALIDAR]
+- Otros servicios: [FALTA] si existen (diseño a medida, mantenimiento, hosting, etc.)
+- Servicio local: [FALTA] si existe servicio presencial en Badalona u otra zona
+
+4. PAQUETES Y PRECIOS [VALIDAR todos]
+- Paquete 1: 50 €
+- Paquete 2: 100 €
+- Paquete 3: 150 €
+- Contenido de cada paquete: [FALTA]
+- Precios con o sin IVA: [FALTA]
+
+5. CLIENTE OBJETIVO
+- Tipos de cliente: [FALTA] autónomos, pymes, otros
+- Problema principal: [FALTA]
+- Lenguaje del cliente: [FALTA] frases literales de clientes
+
+6. COMPETIDORES
+- Directos: [FALTA] nombres y webs (ver resultados de búsqueda: agencias de Barcelona, constructores SaaS)
+- Indirectos: constructores de webs (Wix, Canva, IONOS, Squarespace, GoDaddy) y agencias locales
+- Comparación: [FALTA]
+
+7. DELIMITACIÓN GEOGRÁFICA
+- Alcance: nacional (España) como prioridad [VALIDAR]
+- Presencial: Badalona [VALIDAR si hay servicio presencial]
+- Landing local /diseno-web-badalona: provisional, pendiente de decisión D3
+
+8. ACTIVOS EXISTENTES
+- Web: aitoralmu.xyz (Astro + Tailwind, repo editorial)
+- Plantilla: [FALTA] plantilla usada para las webs de 24 h
+- Casos de cliente y testimonios: [FALTA] solo si son reales y aprobados
+- Contenido publicado: [FALTA]
+
+9. OBJETIVOS COMERCIALES
+- Objetivo a 12 meses: unas 20 ventas [VALIDAR]
+- Prioridad: landing nacional de servicio de webs (prioridad SEO máxima)
+- Hub: /servicios
+
+10. RESTRICCIONES
+- Presupuesto de marketing: 0 € (solo herramientas gratuitas)
+- Herramientas: gratuitas únicamente
+- Tiempo disponible: [FALTA]
+- Restricciones de marca: [FALTA]
+
+11. PENDIENTES DE VALIDAR
+- D1: keyword de la home (pendiente)
+- D2: slug de la landing nacional (pendiente)
+- D3: mantener o eliminar /diseno-web-badalona (pendiente)
+- D4: confirmar precios (50/100/150 €) y plazo (24 h) (pendiente)
+- Todos los [FALTA] y [VALIDAR] de este documento
