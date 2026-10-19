@@ -1,0 +1,2415 @@
+{
+  "seed": "keyword research",
+  "paginas_validas": 3,
+  "paginas_descartadas": [
+    "https://blog.hubspot.es/marketing/7-mejores-herramientas-gratuitas-para-buscar-keywords",
+    "https://www.seo.com/es/tools/semrush-vs-ahrefs/"
+  ],
+  "urls_validas": [
+    "https://aioseo.com/es/best-keyword-research-tools/",
+    "https://geekflare.com/es/seo-keyword-research-tools/",
+    "https://keywordtool.io/"
+  ],
+  "terminos": [
+    {
+      "term": "keyword",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 123,
+      "H_norm": 0.173,
+      "clase": "consenso"
+    },
+    {
+      "term": "google google",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 94,
+      "H_norm": 0.766,
+      "clase": "consenso"
+    },
+    {
+      "term": "google",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 94,
+      "H_norm": 0.766,
+      "clase": "consenso"
+    },
+    {
+      "term": "seo",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 53,
+      "H_norm": 0.893,
+      "clase": "consenso"
+    },
+    {
+      "term": "web",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 17,
+      "H_norm": 0.795,
+      "clase": "consenso"
+    },
+    {
+      "term": "marketing",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 17,
+      "H_norm": 0.926,
+      "clase": "consenso"
+    },
+    {
+      "term": "youtube",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 15,
+      "H_norm": 0.784,
+      "clase": "consenso"
+    },
+    {
+      "term": "software",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 12,
+      "H_norm": 0.75,
+      "clase": "consenso"
+    },
+    {
+      "term": "amazon",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 11,
+      "H_norm": 0.783,
+      "clase": "consenso"
+    },
+    {
+      "term": "bing",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 11,
+      "H_norm": 0.546,
+      "clase": "consenso"
+    },
+    {
+      "term": "bing amazon",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.622,
+      "clase": "consenso"
+    },
+    {
+      "term": "cpc",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.914,
+      "clase": "consenso"
+    },
+    {
+      "term": "ideas",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.982,
+      "clase": "consenso"
+    },
+    {
+      "term": "popular",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.79,
+      "clase": "consenso"
+    },
+    {
+      "term": "plan",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.921,
+      "clase": "consenso"
+    },
+    {
+      "term": "solo",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.79,
+      "clase": "consenso"
+    },
+    {
+      "term": "csv",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.79,
+      "clase": "consenso"
+    },
+    {
+      "term": "rankings",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.946,
+      "clase": "consenso"
+    },
+    {
+      "term": "page",
+      "cobertura": 1.0,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.946,
+      "clase": "consenso"
+    },
+    {
+      "term": "clave",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 185,
+      "H_norm": 0.611,
+      "clase": "resto"
+    },
+    {
+      "term": "palabras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 159,
+      "H_norm": 0.618,
+      "clase": "resto"
+    },
+    {
+      "term": "palabras clave",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 159,
+      "H_norm": 0.618,
+      "clase": "resto"
+    },
+    {
+      "term": "keyword tool",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 69,
+      "H_norm": 0.119,
+      "clase": "resto"
+    },
+    {
+      "term": "tool",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 69,
+      "H_norm": 0.119,
+      "clase": "resto"
+    },
+    {
+      "term": "herramientas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 63,
+      "H_norm": 0.463,
+      "clase": "resto"
+    },
+    {
+      "term": "clave herramientas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 63,
+      "H_norm": 0.463,
+      "clase": "resto"
+    },
+    {
+      "term": "investigación palabras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 57,
+      "H_norm": 0.468,
+      "clase": "resto"
+    },
+    {
+      "term": "herramientas investigación",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 57,
+      "H_norm": 0.468,
+      "clase": "resto"
+    },
+    {
+      "term": "investigación",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 57,
+      "H_norm": 0.468,
+      "clase": "resto"
+    },
+    {
+      "term": "google search",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 54,
+      "H_norm": 0.24,
+      "clase": "resto"
+    },
+    {
+      "term": "search",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 54,
+      "H_norm": 0.24,
+      "clase": "resto"
+    },
+    {
+      "term": "búsqueda palabras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 50,
+      "H_norm": 0.571,
+      "clase": "resto"
+    },
+    {
+      "term": "búsqueda",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 50,
+      "H_norm": 0.571,
+      "clase": "resto"
+    },
+    {
+      "term": "herramientas seo",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 40,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "herramienta",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 36,
+      "H_norm": 0.63,
+      "clase": "resto"
+    },
+    {
+      "term": "clave herramienta",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 36,
+      "H_norm": 0.63,
+      "clase": "resto"
+    },
+    {
+      "term": "clave google",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 31,
+      "H_norm": 0.572,
+      "clase": "resto"
+    },
+    {
+      "term": "ahrefs",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 30,
+      "H_norm": 0.357,
+      "clase": "resto"
+    },
+    {
+      "term": "contenido",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 29,
+      "H_norm": 0.503,
+      "clase": "resto"
+    },
+    {
+      "term": "herramienta investigación",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 29,
+      "H_norm": 0.617,
+      "clase": "resto"
+    },
+    {
+      "term": "palabra clave",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 27,
+      "H_norm": 0.553,
+      "clase": "resto"
+    },
+    {
+      "term": "palabra",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 27,
+      "H_norm": 0.553,
+      "clase": "resto"
+    },
+    {
+      "term": "preguntas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 27,
+      "H_norm": 0.521,
+      "clase": "resto"
+    },
+    {
+      "term": "clave semrush",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 25,
+      "H_norm": 0.4,
+      "clase": "resto"
+    },
+    {
+      "term": "semrush",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 25,
+      "H_norm": 0.4,
+      "clase": "resto"
+    },
+    {
+      "term": "semrush herramienta",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 21,
+      "H_norm": 0.443,
+      "clase": "resto"
+    },
+    {
+      "term": "datos",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 20,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "backlinks",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 19,
+      "H_norm": 0.188,
+      "clase": "resto"
+    },
+    {
+      "term": "research",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 19,
+      "H_norm": 0.468,
+      "clase": "resto"
+    },
+    {
+      "term": "son",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 19,
+      "H_norm": 0.568,
+      "clase": "resto"
+    },
+    {
+      "term": "clave son",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 19,
+      "H_norm": 0.568,
+      "clase": "resto"
+    },
+    {
+      "term": "características",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 18,
+      "H_norm": 0.625,
+      "clase": "resto"
+    },
+    {
+      "term": "también",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 18,
+      "H_norm": 0.625,
+      "clase": "resto"
+    },
+    {
+      "term": "herramienta proporciona",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 17,
+      "H_norm": 0.591,
+      "clase": "resto"
+    },
+    {
+      "term": "proporciona",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 17,
+      "H_norm": 0.591,
+      "clase": "resto"
+    },
+    {
+      "term": "marketing seo",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 17,
+      "H_norm": 0.926,
+      "clase": "resto"
+    },
+    {
+      "term": "puede",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 17,
+      "H_norm": 0.551,
+      "clase": "resto"
+    },
+    {
+      "term": "clave análisis",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.439,
+      "clase": "resto"
+    },
+    {
+      "term": "análisis",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.439,
+      "clase": "resto"
+    },
+    {
+      "term": "sitio",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.602,
+      "clase": "resto"
+    },
+    {
+      "term": "google youtube",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 15,
+      "H_norm": 0.784,
+      "clase": "resto"
+    },
+    {
+      "term": "enlaces",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.234,
+      "clase": "resto"
+    },
+    {
+      "term": "temas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.234,
+      "clase": "resto"
+    },
+    {
+      "term": "mejores",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.545,
+      "clase": "resto"
+    },
+    {
+      "term": "semrush también",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.545,
+      "clase": "resto"
+    },
+    {
+      "term": "encontrar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.622,
+      "clase": "resto"
+    },
+    {
+      "term": "sitio web",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.545,
+      "clase": "resto"
+    },
+    {
+      "term": "mejores herramientas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.545,
+      "clase": "resto"
+    },
+    {
+      "term": "all",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.622,
+      "clase": "resto"
+    },
+    {
+      "term": "encontrar palabras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.622,
+      "clase": "resto"
+    },
+    {
+      "term": "volumen",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.606,
+      "clase": "resto"
+    },
+    {
+      "term": "cola",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.391,
+      "clase": "resto"
+    },
+    {
+      "term": "puede encontrar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.606,
+      "clase": "resto"
+    },
+    {
+      "term": "clave cola",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.391,
+      "clase": "resto"
+    },
+    {
+      "term": "volumen búsqueda",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.606,
+      "clase": "resto"
+    },
+    {
+      "term": "resultados",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "tráfico",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.562,
+      "clase": "resto"
+    },
+    {
+      "term": "todas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.562,
+      "clase": "resto"
+    },
+    {
+      "term": "precios",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.261,
+      "clase": "resto"
+    },
+    {
+      "term": "people",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.261,
+      "clase": "resto"
+    },
+    {
+      "term": "one",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "cola larga",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.261,
+      "clase": "resto"
+    },
+    {
+      "term": "larga",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.261,
+      "clase": "resto"
+    },
+    {
+      "term": "información",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.597,
+      "clase": "resto"
+    },
+    {
+      "term": "google bing",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.546,
+      "clase": "resto"
+    },
+    {
+      "term": "dificultad palabra",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.597,
+      "clase": "resto"
+    },
+    {
+      "term": "clave dificultad",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.597,
+      "clase": "resto"
+    },
+    {
+      "term": "gratuita",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.533,
+      "clase": "resto"
+    },
+    {
+      "term": "obtener",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.597,
+      "clase": "resto"
+    },
+    {
+      "term": "dificultad",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.597,
+      "clase": "resto"
+    },
+    {
+      "term": "planner",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.277,
+      "clase": "resto"
+    },
+    {
+      "term": "youtube amazon",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.783,
+      "clase": "resto"
+    },
+    {
+      "term": "keyword planner",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.277,
+      "clase": "resto"
+    },
+    {
+      "term": "youtube bing",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.546,
+      "clase": "resto"
+    },
+    {
+      "term": "clave competencia",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "tema",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "web proporciona",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "ayuda",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "alsoasked",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.556,
+      "clase": "resto"
+    },
+    {
+      "term": "versión",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "ayuda encontrar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "algunas características",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "mes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "usuarios",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "intención búsqueda",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.296,
+      "clase": "resto"
+    },
+    {
+      "term": "competencia",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "algunas herramientas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "algunas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "intención",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.296,
+      "clase": "resto"
+    },
+    {
+      "term": "ubersuggest",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 9,
+      "H_norm": 0.482,
+      "clase": "resto"
+    },
+    {
+      "term": "explorer",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 9,
+      "H_norm": 0.318,
+      "clase": "resto"
+    },
+    {
+      "term": "tools",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 9,
+      "H_norm": 0.625,
+      "clase": "resto"
+    },
+    {
+      "term": "versión gratuita",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 9,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "ver",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 9,
+      "H_norm": 0.318,
+      "clase": "resto"
+    },
+    {
+      "term": "relacionadas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 9,
+      "H_norm": 0.482,
+      "clase": "resto"
+    },
+    {
+      "term": "research tools",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 9,
+      "H_norm": 0.625,
+      "clase": "resto"
+    },
+    {
+      "term": "store",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 9,
+      "H_norm": 0.318,
+      "clase": "resto"
+    },
+    {
+      "term": "está",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "pueden",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.602,
+      "clase": "resto"
+    },
+    {
+      "term": "continuación",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "pago",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.343,
+      "clase": "resto"
+    },
+    {
+      "term": "principales",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.602,
+      "clase": "resto"
+    },
+    {
+      "term": "análisis competencia",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.602,
+      "clase": "resto"
+    },
+    {
+      "term": "partir",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.343,
+      "clase": "resto"
+    },
+    {
+      "term": "clave pueden",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.602,
+      "clase": "resto"
+    },
+    {
+      "term": "clasificar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "answerthepublic",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "cómo",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 8,
+      "H_norm": 0.343,
+      "clase": "resto"
+    },
+    {
+      "term": "profesionales",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.622,
+      "clase": "resto"
+    },
+    {
+      "term": "google trends",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.545,
+      "clase": "resto"
+    },
+    {
+      "term": "ofrece",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.622,
+      "clase": "resto"
+    },
+    {
+      "term": "ayudar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.373,
+      "clase": "resto"
+    },
+    {
+      "term": "trends",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.545,
+      "clase": "resto"
+    },
+    {
+      "term": "clasificación",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.373,
+      "clase": "resto"
+    },
+    {
+      "term": "lista",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.373,
+      "clase": "resto"
+    },
+    {
+      "term": "profesionales marketing",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.622,
+      "clase": "resto"
+    },
+    {
+      "term": "mejor",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.545,
+      "clase": "resto"
+    },
+    {
+      "term": "versión pago",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.373,
+      "clase": "resto"
+    },
+    {
+      "term": "ayudar usuarios",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.373,
+      "clase": "resto"
+    },
+    {
+      "term": "online",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 7,
+      "H_norm": 0.373,
+      "clase": "resto"
+    },
+    {
+      "term": "incluyen",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "usar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "serp",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "hacer",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.41,
+      "clase": "resto"
+    },
+    {
+      "term": "descubrir",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "forma",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.41,
+      "clase": "resto"
+    },
+    {
+      "term": "tendencias",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.41,
+      "clase": "resto"
+    },
+    {
+      "term": "búsquedas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.41,
+      "clase": "resto"
+    },
+    {
+      "term": "general",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "crear",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 6,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "todo",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "sugerencias",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "explorador palabras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "panel",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "clic",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "están",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "filtros",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "mejorar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "buscar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "competidores",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "herramientas ayudan",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "tanto",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "interfaz",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "cuando",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "sugerencias palabras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "diferencia",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "ayudan",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "diferente",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "métricas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "proporciona sugerencias",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "alto",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "generador palabras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "tiene",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "fácil",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "generador",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "utilizar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "otras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "explorador",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "mensual",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "usuario",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.613,
+      "clase": "resto"
+    },
+    {
+      "term": "app store",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "amazon ebay",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "ebay",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "app",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "ebay app",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 5,
+      "H_norm": 0.455,
+      "clase": "resto"
+    },
+    {
+      "term": "elegir",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "plataforma",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "siempre",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "después",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "also",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "mismo tema",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "prueba",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "utilizan",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "cuenta",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "muchas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "producto",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "generar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "clave relevantes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "principiantes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "permite",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "días",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "seo page",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.946,
+      "clase": "resto"
+    },
+    {
+      "term": "muestra",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "optimización",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "uso",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "cualquier",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "basado",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "relevantes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "opciones",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "dominio",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "están relacionadas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "antes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "optimización contenido",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "mismo",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 4,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "embargo",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "twitter",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "disponible",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "sitios",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "considera",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "sea",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "varias",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "fácilmente",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "crecimiento",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "así",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "similar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "mercado",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "pregunta",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "relacionada",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "tipo",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "planificador palabras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "siguientes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "auditoría",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "productos",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "densidad",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "específicos",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "incluye",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "new",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "utilizada",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "frases",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "high",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "filtrar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "intuitiva",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "clave auditoría",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "semilla",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "varias herramientas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "motor",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "campañas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "datos autocompletado",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "clave semilla",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "rendimiento",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "planificador",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "autocompletado",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "útil",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "información relacionada",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "750",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "ppc",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "etc",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 3,
+      "H_norm": 0.579,
+      "clase": "resto"
+    },
+    {
+      "term": "experiencia",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "compatible",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "filtros inteligentes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "algunos",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "posición",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "necesario",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "indican",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "página",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "centra",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "útiles",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "creando",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "google suggest",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "identificar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "archivo csv",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "factores",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "genera",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "leads",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "papel",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "inteligentes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "volúmenes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "aquí",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "limitada",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "volúmenes búsqueda",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "vez",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "utiliza",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "dicho",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "éxito",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "instantánea",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "comunes",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "base",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "suggest",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "ventas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "baja",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "siguiente",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "líder",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "calidad",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "estar",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "hay",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "últimas",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "eficaz",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "100",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "mientras",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "enfoque",
+      "cobertura": 0.67,
+      "paginas": 2,
+      "frecuencia_total": 2,
+      "H_norm": 0.631,
+      "clase": "resto"
+    }
+  ]
+}
