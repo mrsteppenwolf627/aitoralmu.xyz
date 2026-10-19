@@ -1,0 +1,2422 @@
+{
+  "seed": "verifactu",
+  "paginas_validas": 9,
+  "paginas_descartadas": [
+    "https://teamsystem.es/magazine/verifactu-se-aplaza-2028/",
+    "https://ecosistemastartup.com/verifactu-se-aplaza-a-octubre-2028-que-cambia-para-tu-startup/",
+    "https://www.holded.com/es/programa-facturacion-verifactu"
+  ],
+  "urls_validas": [
+    "https://loentiendo.com/?p=134840",
+    "https://www.b2brouter.net/es/verifactu-octubre-2028/",
+    "https://www.billin.net/blog/?p=28435",
+    "https://www.captain.legal/es/blog/verifactu-calendario-sociedades-autonomos/",
+    "https://www.billin.net/verifactu/",
+    "https://stripe.com/es/resources/more/what-is-verifactu-spain",
+    "https://blogthinkbig.com/que-es-verifactu-facturas-agencia-tributaria",
+    "https://www.billin.net/blog/verifactu/",
+    "https://www.billin.net/sistema-verifactu/"
+  ],
+  "terminos": [
+    {
+      "term": "verifactu",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 700,
+      "H_norm": 0.751,
+      "clase": "consenso"
+    },
+    {
+      "term": "facturas",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 386,
+      "H_norm": 0.746,
+      "clase": "consenso"
+    },
+    {
+      "term": "facturación",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 350,
+      "H_norm": 0.901,
+      "clase": "consenso"
+    },
+    {
+      "term": "factura",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 307,
+      "H_norm": 0.854,
+      "clase": "consenso"
+    },
+    {
+      "term": "empresas",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 151,
+      "H_norm": 0.931,
+      "clase": "consenso"
+    },
+    {
+      "term": "autónomos",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 136,
+      "H_norm": 0.91,
+      "clase": "consenso"
+    },
+    {
+      "term": "empresas autónomos",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 132,
+      "H_norm": 0.893,
+      "clase": "consenso"
+    },
+    {
+      "term": "ley",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 124,
+      "H_norm": 0.87,
+      "clase": "consenso"
+    },
+    {
+      "term": "electrónica",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 107,
+      "H_norm": 0.948,
+      "clase": "consenso"
+    },
+    {
+      "term": "tributaria",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 101,
+      "H_norm": 0.863,
+      "clase": "consenso"
+    },
+    {
+      "term": "2027",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 95,
+      "H_norm": 0.843,
+      "clase": "consenso"
+    },
+    {
+      "term": "requisitos",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 94,
+      "H_norm": 0.874,
+      "clase": "consenso"
+    },
+    {
+      "term": "agencia",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 86,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "agencia tributaria",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 86,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "trazabilidad",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 81,
+      "H_norm": 0.721,
+      "clase": "consenso"
+    },
+    {
+      "term": "julio",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 79,
+      "H_norm": 0.832,
+      "clase": "consenso"
+    },
+    {
+      "term": "julio 2027",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 79,
+      "H_norm": 0.832,
+      "clase": "consenso"
+    },
+    {
+      "term": "sistemas",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 77,
+      "H_norm": 0.922,
+      "clase": "consenso"
+    },
+    {
+      "term": "forma",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 68,
+      "H_norm": 0.896,
+      "clase": "consenso"
+    },
+    {
+      "term": "enero",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 56,
+      "H_norm": 0.841,
+      "clase": "consenso"
+    },
+    {
+      "term": "2026",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 55,
+      "H_norm": 0.926,
+      "clase": "consenso"
+    },
+    {
+      "term": "información",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 49,
+      "H_norm": 0.903,
+      "clase": "consenso"
+    },
+    {
+      "term": "informáticos",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 41,
+      "H_norm": 0.942,
+      "clase": "consenso"
+    },
+    {
+      "term": "sistemas informáticos",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 41,
+      "H_norm": 0.942,
+      "clase": "consenso"
+    },
+    {
+      "term": "vigor",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 40,
+      "H_norm": 0.894,
+      "clase": "consenso"
+    },
+    {
+      "term": "sociedades",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 36,
+      "H_norm": 0.902,
+      "clase": "consenso"
+    },
+    {
+      "term": "hasta",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 35,
+      "H_norm": 0.93,
+      "clase": "consenso"
+    },
+    {
+      "term": "técnicos",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 35,
+      "H_norm": 0.865,
+      "clase": "consenso"
+    },
+    {
+      "term": "impuesto",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 34,
+      "H_norm": 0.876,
+      "clase": "consenso"
+    },
+    {
+      "term": "impuesto sociedades",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 32,
+      "H_norm": 0.87,
+      "clase": "consenso"
+    },
+    {
+      "term": "está",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 32,
+      "H_norm": 0.906,
+      "clase": "consenso"
+    },
+    {
+      "term": "aunque",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 32,
+      "H_norm": 0.967,
+      "clase": "consenso"
+    },
+    {
+      "term": "artículo",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 29,
+      "H_norm": 0.969,
+      "clase": "consenso"
+    },
+    {
+      "term": "fechas",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 26,
+      "H_norm": 0.964,
+      "clase": "consenso"
+    },
+    {
+      "term": "adaptar",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 23,
+      "H_norm": 0.933,
+      "clase": "consenso"
+    },
+    {
+      "term": "además",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 22,
+      "H_norm": 0.892,
+      "clase": "consenso"
+    },
+    {
+      "term": "fraude",
+      "cobertura": 1.0,
+      "paginas": 9,
+      "frecuencia_total": 14,
+      "H_norm": 0.959,
+      "clase": "consenso"
+    },
+    {
+      "term": "sistema",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 208,
+      "H_norm": 0.836,
+      "clase": "consenso"
+    },
+    {
+      "term": "software",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 169,
+      "H_norm": 0.827,
+      "clase": "consenso"
+    },
+    {
+      "term": "registros",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 128,
+      "H_norm": 0.796,
+      "clase": "consenso"
+    },
+    {
+      "term": "registros facturación",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 128,
+      "H_norm": 0.796,
+      "clase": "consenso"
+    },
+    {
+      "term": "factura electrónica",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 103,
+      "H_norm": 0.952,
+      "clase": "consenso"
+    },
+    {
+      "term": "real",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 89,
+      "H_norm": 0.831,
+      "clase": "consenso"
+    },
+    {
+      "term": "reglamento",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 82,
+      "H_norm": 0.751,
+      "clase": "consenso"
+    },
+    {
+      "term": "registro",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 81,
+      "H_norm": 0.776,
+      "clase": "consenso"
+    },
+    {
+      "term": "tiempo",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 63,
+      "H_norm": 0.82,
+      "clase": "consenso"
+    },
+    {
+      "term": "programa",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 63,
+      "H_norm": 0.835,
+      "clase": "consenso"
+    },
+    {
+      "term": "enero 2027",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 56,
+      "H_norm": 0.841,
+      "clase": "consenso"
+    },
+    {
+      "term": "electrónica obligatoria",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 52,
+      "H_norm": 0.927,
+      "clase": "consenso"
+    },
+    {
+      "term": "obligatoria",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 52,
+      "H_norm": 0.927,
+      "clase": "consenso"
+    },
+    {
+      "term": "normativa",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 48,
+      "H_norm": 0.89,
+      "clase": "consenso"
+    },
+    {
+      "term": "decreto",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 47,
+      "H_norm": 0.891,
+      "clase": "consenso"
+    },
+    {
+      "term": "real decreto",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 47,
+      "H_norm": 0.891,
+      "clase": "consenso"
+    },
+    {
+      "term": "solo",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 46,
+      "H_norm": 0.901,
+      "clase": "consenso"
+    },
+    {
+      "term": "2023",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 46,
+      "H_norm": 0.859,
+      "clase": "consenso"
+    },
+    {
+      "term": "también",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 42,
+      "H_norm": 0.909,
+      "clase": "consenso"
+    },
+    {
+      "term": "fecha",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 42,
+      "H_norm": 0.861,
+      "clase": "consenso"
+    },
+    {
+      "term": "integridad",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 41,
+      "H_norm": 0.772,
+      "clase": "consenso"
+    },
+    {
+      "term": "cumplir",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 41,
+      "H_norm": 0.882,
+      "clase": "consenso"
+    },
+    {
+      "term": "tanto",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 41,
+      "H_norm": 0.819,
+      "clase": "consenso"
+    },
+    {
+      "term": "informáticos facturación",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 41,
+      "H_norm": 0.942,
+      "clase": "consenso"
+    },
+    {
+      "term": "puede",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 40,
+      "H_norm": 0.83,
+      "clase": "consenso"
+    },
+    {
+      "term": "fiscal",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 38,
+      "H_norm": 0.88,
+      "clase": "consenso"
+    },
+    {
+      "term": "todos",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 38,
+      "H_norm": 0.812,
+      "clase": "consenso"
+    },
+    {
+      "term": "ley crea",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 37,
+      "H_norm": 0.822,
+      "clase": "consenso"
+    },
+    {
+      "term": "crea",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 37,
+      "H_norm": 0.822,
+      "clase": "consenso"
+    },
+    {
+      "term": "octubre",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 37,
+      "H_norm": 0.757,
+      "clase": "consenso"
+    },
+    {
+      "term": "1007 2023",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 34,
+      "H_norm": 0.869,
+      "clase": "consenso"
+    },
+    {
+      "term": "1007",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 34,
+      "H_norm": 0.869,
+      "clase": "consenso"
+    },
+    {
+      "term": "afecta",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 34,
+      "H_norm": 0.774,
+      "clase": "consenso"
+    },
+    {
+      "term": "calendario",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 33,
+      "H_norm": 0.897,
+      "clase": "consenso"
+    },
+    {
+      "term": "momento",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 32,
+      "H_norm": 0.842,
+      "clase": "consenso"
+    },
+    {
+      "term": "son",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 32,
+      "H_norm": 0.879,
+      "clase": "consenso"
+    },
+    {
+      "term": "decreto 1007",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 32,
+      "H_norm": 0.863,
+      "clase": "consenso"
+    },
+    {
+      "term": "digital",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 31,
+      "H_norm": 0.912,
+      "clase": "consenso"
+    },
+    {
+      "term": "obligados",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 30,
+      "H_norm": 0.854,
+      "clase": "consenso"
+    },
+    {
+      "term": "profesionales",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 25,
+      "H_norm": 0.919,
+      "clase": "consenso"
+    },
+    {
+      "term": "crece",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 24,
+      "H_norm": 0.874,
+      "clase": "consenso"
+    },
+    {
+      "term": "puedes",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 24,
+      "H_norm": 0.809,
+      "clase": "consenso"
+    },
+    {
+      "term": "crea crece",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 24,
+      "H_norm": 0.874,
+      "clase": "consenso"
+    },
+    {
+      "term": "permite",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 23,
+      "H_norm": 0.881,
+      "clase": "consenso"
+    },
+    {
+      "term": "españa",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 23,
+      "H_norm": 0.892,
+      "clase": "consenso"
+    },
+    {
+      "term": "plazo",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 22,
+      "H_norm": 0.892,
+      "clase": "consenso"
+    },
+    {
+      "term": "entrada",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 21,
+      "H_norm": 0.894,
+      "clase": "consenso"
+    },
+    {
+      "term": "entrada vigor",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 21,
+      "H_norm": 0.894,
+      "clase": "consenso"
+    },
+    {
+      "term": "inmediato",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 20,
+      "H_norm": 0.89,
+      "clase": "consenso"
+    },
+    {
+      "term": "hay",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 20,
+      "H_norm": 0.878,
+      "clase": "consenso"
+    },
+    {
+      "term": "meses",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 19,
+      "H_norm": 0.877,
+      "clase": "consenso"
+    },
+    {
+      "term": "general",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 18,
+      "H_norm": 0.895,
+      "clase": "consenso"
+    },
+    {
+      "term": "euros",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 18,
+      "H_norm": 0.796,
+      "clase": "consenso"
+    },
+    {
+      "term": "ser",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 17,
+      "H_norm": 0.918,
+      "clase": "consenso"
+    },
+    {
+      "term": "nueva",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 16,
+      "H_norm": 0.902,
+      "clase": "consenso"
+    },
+    {
+      "term": "ofrece",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 15,
+      "H_norm": 0.89,
+      "clase": "consenso"
+    },
+    {
+      "term": "preguntas",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 11,
+      "H_norm": 0.898,
+      "clase": "consenso"
+    },
+    {
+      "term": "quienes",
+      "cobertura": 0.89,
+      "paginas": 8,
+      "frecuencia_total": 10,
+      "H_norm": 0.922,
+      "clase": "consenso"
+    },
+    {
+      "term": "sistema facturación",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 208,
+      "H_norm": 0.836,
+      "clase": "consenso"
+    },
+    {
+      "term": "hacienda",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 92,
+      "H_norm": 0.746,
+      "clase": "consenso"
+    },
+    {
+      "term": "datos",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 88,
+      "H_norm": 0.751,
+      "clase": "consenso"
+    },
+    {
+      "term": "sistemas facturación",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 77,
+      "H_norm": 0.922,
+      "clase": "consenso"
+    },
+    {
+      "term": "cómo",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 70,
+      "H_norm": 0.798,
+      "clase": "consenso"
+    },
+    {
+      "term": "programa facturación",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 63,
+      "H_norm": 0.835,
+      "clase": "consenso"
+    },
+    {
+      "term": "cuando",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 57,
+      "H_norm": 0.776,
+      "clase": "consenso"
+    },
+    {
+      "term": "2025",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 55,
+      "H_norm": 0.724,
+      "clase": "consenso"
+    },
+    {
+      "term": "uso",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 50,
+      "H_norm": 0.794,
+      "clase": "consenso"
+    },
+    {
+      "term": "tiene",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 49,
+      "H_norm": 0.804,
+      "clase": "consenso"
+    },
+    {
+      "term": "nuevo",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 47,
+      "H_norm": 0.863,
+      "clase": "consenso"
+    },
+    {
+      "term": "cada",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 45,
+      "H_norm": 0.852,
+      "clase": "consenso"
+    },
+    {
+      "term": "debe",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 42,
+      "H_norm": 0.757,
+      "clase": "consenso"
+    },
+    {
+      "term": "empresa",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 42,
+      "H_norm": 0.786,
+      "clase": "consenso"
+    },
+    {
+      "term": "sif",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 41,
+      "H_norm": 0.857,
+      "clase": "consenso"
+    },
+    {
+      "term": "certificado",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 39,
+      "H_norm": 0.712,
+      "clase": "consenso"
+    },
+    {
+      "term": "antifraude",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 37,
+      "H_norm": 0.822,
+      "clase": "consenso"
+    },
+    {
+      "term": "ley antifraude",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 37,
+      "H_norm": 0.822,
+      "clase": "consenso"
+    },
+    {
+      "term": "requisitos técnicos",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 35,
+      "H_norm": 0.865,
+      "clase": "consenso"
+    },
+    {
+      "term": "modalidad",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 35,
+      "H_norm": 0.702,
+      "clase": "consenso"
+    },
+    {
+      "term": "sociedades julio",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 34,
+      "H_norm": 0.877,
+      "clase": "consenso"
+    },
+    {
+      "term": "control",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 34,
+      "H_norm": 0.748,
+      "clase": "consenso"
+    },
+    {
+      "term": "sii",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 33,
+      "H_norm": 0.802,
+      "clase": "consenso"
+    },
+    {
+      "term": "obligatoriedad",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 33,
+      "H_norm": 0.788,
+      "clase": "consenso"
+    },
+    {
+      "term": "adaptado",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 32,
+      "H_norm": 0.753,
+      "clase": "consenso"
+    },
+    {
+      "term": "obligación",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 31,
+      "H_norm": 0.862,
+      "clase": "consenso"
+    },
+    {
+      "term": "resto",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 31,
+      "H_norm": 0.841,
+      "clase": "consenso"
+    },
+    {
+      "term": "obligatorio",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 30,
+      "H_norm": 0.765,
+      "clase": "consenso"
+    },
+    {
+      "term": "adaptación",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 29,
+      "H_norm": 0.846,
+      "clase": "consenso"
+    },
+    {
+      "term": "usar",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 29,
+      "H_norm": 0.782,
+      "clase": "consenso"
+    },
+    {
+      "term": "hacer",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 28,
+      "H_norm": 0.826,
+      "clase": "consenso"
+    },
+    {
+      "term": "garantizar",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 28,
+      "H_norm": 0.795,
+      "clase": "consenso"
+    },
+    {
+      "term": "deben",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 27,
+      "H_norm": 0.807,
+      "clase": "consenso"
+    },
+    {
+      "term": "tipo",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 24,
+      "H_norm": 0.782,
+      "clase": "consenso"
+    },
+    {
+      "term": "tener",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 24,
+      "H_norm": 0.848,
+      "clase": "consenso"
+    },
+    {
+      "term": "obligaciones",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 23,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "año",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 23,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "negocio",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 23,
+      "H_norm": 0.775,
+      "clase": "consenso"
+    },
+    {
+      "term": "todo",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 22,
+      "H_norm": 0.828,
+      "clase": "consenso"
+    },
+    {
+      "term": "diciembre",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 22,
+      "H_norm": 0.862,
+      "clase": "consenso"
+    },
+    {
+      "term": "parte",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 22,
+      "H_norm": 0.828,
+      "clase": "consenso"
+    },
+    {
+      "term": "durante",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 22,
+      "H_norm": 0.793,
+      "clase": "consenso"
+    },
+    {
+      "term": "cuenta",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 22,
+      "H_norm": 0.812,
+      "clase": "consenso"
+    },
+    {
+      "term": "según",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 21,
+      "H_norm": 0.878,
+      "clase": "consenso"
+    },
+    {
+      "term": "contribuyentes",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 20,
+      "H_norm": 0.783,
+      "clase": "consenso"
+    },
+    {
+      "term": "inmediato información",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 20,
+      "H_norm": 0.89,
+      "clase": "consenso"
+    },
+    {
+      "term": "quién",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 20,
+      "H_norm": 0.827,
+      "clase": "consenso"
+    },
+    {
+      "term": "cuándo",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 19,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "dos",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 19,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "país",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 19,
+      "H_norm": 0.813,
+      "clase": "consenso"
+    },
+    {
+      "term": "navarra",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 19,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "clientes",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 19,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "genera",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.825,
+      "clase": "consenso"
+    },
+    {
+      "term": "envía",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.825,
+      "clase": "consenso"
+    },
+    {
+      "term": "bajo",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.812,
+      "clase": "consenso"
+    },
+    {
+      "term": "través",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.855,
+      "clase": "consenso"
+    },
+    {
+      "term": "informático facturación",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.868,
+      "clase": "consenso"
+    },
+    {
+      "term": "vasco",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.827,
+      "clase": "consenso"
+    },
+    {
+      "term": "informático",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.868,
+      "clase": "consenso"
+    },
+    {
+      "term": "sistema informático",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.868,
+      "clase": "consenso"
+    },
+    {
+      "term": "país vasco",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.827,
+      "clase": "consenso"
+    },
+    {
+      "term": "técnico",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 17,
+      "H_norm": 0.807,
+      "clase": "consenso"
+    },
+    {
+      "term": "cambios",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 16,
+      "H_norm": 0.836,
+      "clase": "consenso"
+    },
+    {
+      "term": "suministro inmediato",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.848,
+      "clase": "consenso"
+    },
+    {
+      "term": "suministro",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.848,
+      "clase": "consenso"
+    },
+    {
+      "term": "nuevas",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.848,
+      "clase": "consenso"
+    },
+    {
+      "term": "nuevas fechas",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.848,
+      "clase": "consenso"
+    },
+    {
+      "term": "actualizado",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.835,
+      "clase": "consenso"
+    },
+    {
+      "term": "propia",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.835,
+      "clase": "consenso"
+    },
+    {
+      "term": "mediante",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.795,
+      "clase": "consenso"
+    },
+    {
+      "term": "vez",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 13,
+      "H_norm": 0.84,
+      "clase": "consenso"
+    },
+    {
+      "term": "fraude fiscal",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 13,
+      "H_norm": 0.906,
+      "clase": "consenso"
+    },
+    {
+      "term": "creación",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.868,
+      "clase": "consenso"
+    },
+    {
+      "term": "sigue",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.828,
+      "clase": "consenso"
+    },
+    {
+      "term": "partir",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.828,
+      "clase": "consenso"
+    },
+    {
+      "term": "profesional",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.848,
+      "clase": "consenso"
+    },
+    {
+      "term": "automáticamente",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 11,
+      "H_norm": 0.862,
+      "clase": "consenso"
+    },
+    {
+      "term": "plataforma",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 11,
+      "H_norm": 0.84,
+      "clase": "consenso"
+    },
+    {
+      "term": "bien",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 10,
+      "H_norm": 0.859,
+      "clase": "consenso"
+    },
+    {
+      "term": "anterior",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 9,
+      "H_norm": 0.86,
+      "clase": "consenso"
+    },
+    {
+      "term": "marco",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 9,
+      "H_norm": 0.86,
+      "clase": "consenso"
+    },
+    {
+      "term": "preguntas frecuentes",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 8,
+      "H_norm": 0.868,
+      "clase": "consenso"
+    },
+    {
+      "term": "frecuentes",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 8,
+      "H_norm": 0.868,
+      "clase": "consenso"
+    },
+    {
+      "term": "proceso",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 7,
+      "H_norm": 0.886,
+      "clase": "consenso"
+    },
+    {
+      "term": "manipular",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 7,
+      "H_norm": 0.886,
+      "clase": "consenso"
+    },
+    {
+      "term": "desarrollo",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 7,
+      "H_norm": 0.886,
+      "clase": "consenso"
+    },
+    {
+      "term": "empresarios",
+      "cobertura": 0.78,
+      "paginas": 7,
+      "frecuencia_total": 7,
+      "H_norm": 0.886,
+      "clase": "consenso"
+    },
+    {
+      "term": "verifactu verifactu",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 700,
+      "H_norm": 0.751,
+      "clase": "resto"
+    },
+    {
+      "term": "verifactu factura",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 276,
+      "H_norm": 0.791,
+      "clase": "resto"
+    },
+    {
+      "term": "software facturación",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 169,
+      "H_norm": 0.827,
+      "clase": "resto"
+    },
+    {
+      "term": "autónomos empresas",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 132,
+      "H_norm": 0.893,
+      "clase": "resto"
+    },
+    {
+      "term": "aeat",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 80,
+      "H_norm": 0.731,
+      "clase": "resto"
+    },
+    {
+      "term": "código",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 76,
+      "H_norm": 0.673,
+      "clase": "resto"
+    },
+    {
+      "term": "ahora",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 63,
+      "H_norm": 0.67,
+      "clase": "resto"
+    },
+    {
+      "term": "iva",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 59,
+      "H_norm": 0.72,
+      "clase": "resto"
+    },
+    {
+      "term": "julio 2025",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 53,
+      "H_norm": 0.701,
+      "clase": "resto"
+    },
+    {
+      "term": "decreto ley",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 47,
+      "H_norm": 0.891,
+      "clase": "resto"
+    },
+    {
+      "term": "enero 2026",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 46,
+      "H_norm": 0.856,
+      "clase": "resto"
+    },
+    {
+      "term": "cada factura",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 45,
+      "H_norm": 0.852,
+      "clase": "resto"
+    },
+    {
+      "term": "facturación sif",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 41,
+      "H_norm": 0.857,
+      "clase": "resto"
+    },
+    {
+      "term": "cumplir requisitos",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 41,
+      "H_norm": 0.882,
+      "clase": "resto"
+    },
+    {
+      "term": "aplica",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 40,
+      "H_norm": 0.704,
+      "clase": "resto"
+    },
+    {
+      "term": "integridad trazabilidad",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 39,
+      "H_norm": 0.767,
+      "clase": "resto"
+    },
+    {
+      "term": "todas",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 38,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "inalterabilidad",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 34,
+      "H_norm": 0.662,
+      "clase": "resto"
+    },
+    {
+      "term": "trazabilidad inalterabilidad",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 34,
+      "H_norm": 0.662,
+      "clase": "resto"
+    },
+    {
+      "term": "seguridad",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 34,
+      "H_norm": 0.662,
+      "clase": "resto"
+    },
+    {
+      "term": "aplicación",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 33,
+      "H_norm": 0.736,
+      "clase": "resto"
+    },
+    {
+      "term": "porque",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 29,
+      "H_norm": 0.752,
+      "clase": "resto"
+    },
+    {
+      "term": "original",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 28,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "cliente",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 28,
+      "H_norm": 0.722,
+      "clase": "resto"
+    },
+    {
+      "term": "resto obligados",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 27,
+      "H_norm": 0.797,
+      "clase": "resto"
+    },
+    {
+      "term": "facturas emitidas",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 27,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "legal",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 27,
+      "H_norm": 0.766,
+      "clase": "resto"
+    },
+    {
+      "term": "emitidas",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 27,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "requisitos deben",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 27,
+      "H_norm": 0.807,
+      "clase": "resto"
+    },
+    {
+      "term": "nuevo calendario",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 25,
+      "H_norm": 0.851,
+      "clase": "resto"
+    },
+    {
+      "term": "gestión",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 25,
+      "H_norm": 0.798,
+      "clase": "resto"
+    },
+    {
+      "term": "tienen",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 25,
+      "H_norm": 0.696,
+      "clase": "resto"
+    },
+    {
+      "term": "antes",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 24,
+      "H_norm": 0.696,
+      "clase": "resto"
+    },
+    {
+      "term": "b2b",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 23,
+      "H_norm": 0.763,
+      "clase": "resto"
+    },
+    {
+      "term": "pueden",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 23,
+      "H_norm": 0.734,
+      "clase": "resto"
+    },
+    {
+      "term": "orden",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 23,
+      "H_norm": 0.724,
+      "clase": "resto"
+    },
+    {
+      "term": "doble",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 23,
+      "H_norm": 0.737,
+      "clase": "resto"
+    },
+    {
+      "term": "contenido",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 23,
+      "H_norm": 0.734,
+      "clase": "resto"
+    },
+    {
+      "term": "adaptar software",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 22,
+      "H_norm": 0.891,
+      "clase": "resto"
+    },
+    {
+      "term": "están",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 22,
+      "H_norm": 0.741,
+      "clase": "resto"
+    },
+    {
+      "term": "operaciones",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 22,
+      "H_norm": 0.783,
+      "clase": "resto"
+    },
+    {
+      "term": "doble uso",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 22,
+      "H_norm": 0.741,
+      "clase": "resto"
+    },
+    {
+      "term": "verificar",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 22,
+      "H_norm": 0.711,
+      "clase": "resto"
+    },
+    {
+      "term": "crear",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 21,
+      "H_norm": 0.687,
+      "clase": "resto"
+    },
+    {
+      "term": "deben cumplir",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 21,
+      "H_norm": 0.762,
+      "clase": "resto"
+    },
+    {
+      "term": "contabilidad",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 21,
+      "H_norm": 0.761,
+      "clase": "resto"
+    },
+    {
+      "term": "único",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 21,
+      "H_norm": 0.687,
+      "clase": "resto"
+    },
+    {
+      "term": "siempre",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 21,
+      "H_norm": 0.742,
+      "clase": "resto"
+    },
+    {
+      "term": "fiscales",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 20,
+      "H_norm": 0.753,
+      "clase": "resto"
+    },
+    {
+      "term": "contribuyentes impuesto",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 20,
+      "H_norm": 0.783,
+      "clase": "resto"
+    },
+    {
+      "term": "utilizar",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 20,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "cambio",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 19,
+      "H_norm": 0.776,
+      "clase": "resto"
+    },
+    {
+      "term": "ley 2021",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 19,
+      "H_norm": 0.784,
+      "clase": "resto"
+    },
+    {
+      "term": "2021",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 19,
+      "H_norm": 0.784,
+      "clase": "resto"
+    },
+    {
+      "term": "enviar",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 19,
+      "H_norm": 0.729,
+      "clase": "resto"
+    },
+    {
+      "term": "sea",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 19,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "funciona",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 19,
+      "H_norm": 0.729,
+      "clase": "resto"
+    },
+    {
+      "term": "general tributaria",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.895,
+      "clase": "resto"
+    },
+    {
+      "term": "huella",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.705,
+      "clase": "resto"
+    },
+    {
+      "term": "desarrolladores",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.705,
+      "clase": "resto"
+    },
+    {
+      "term": "ayuda",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.705,
+      "clase": "resto"
+    },
+    {
+      "term": "será",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 17,
+      "H_norm": 0.756,
+      "clase": "resto"
+    },
+    {
+      "term": "procesos",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 17,
+      "H_norm": 0.747,
+      "clase": "resto"
+    },
+    {
+      "term": "incluir",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 17,
+      "H_norm": 0.737,
+      "clase": "resto"
+    },
+    {
+      "term": "documento",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 17,
+      "H_norm": 0.802,
+      "clase": "resto"
+    },
+    {
+      "term": "cualquier",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 17,
+      "H_norm": 0.756,
+      "clase": "resto"
+    },
+    {
+      "term": "ticketbai",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.783,
+      "clase": "resto"
+    },
+    {
+      "term": "responsable",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.752,
+      "clase": "resto"
+    },
+    {
+      "term": "vasco navarra",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.847,
+      "clase": "resto"
+    },
+    {
+      "term": "evitar",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.806,
+      "clase": "resto"
+    },
+    {
+      "term": "propio",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.79,
+      "clase": "resto"
+    },
+    {
+      "term": "hac",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "generar",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.764,
+      "clase": "resto"
+    },
+    {
+      "term": "documentos",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.644,
+      "clase": "resto"
+    },
+    {
+      "term": "eventos",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "estar",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "legales",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.79,
+      "clase": "resto"
+    },
+    {
+      "term": "sanciones",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 14,
+      "H_norm": 0.651,
+      "clase": "resto"
+    },
+    {
+      "term": "directamente",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 14,
+      "H_norm": 0.773,
+      "clase": "resto"
+    },
+    {
+      "term": "errores",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.779,
+      "clase": "resto"
+    },
+    {
+      "term": "haya",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.773,
+      "clase": "resto"
+    },
+    {
+      "term": "actual",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.773,
+      "clase": "resto"
+    },
+    {
+      "term": "objetivo",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.809,
+      "clase": "resto"
+    },
+    {
+      "term": "embargo",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.74,
+      "clase": "resto"
+    },
+    {
+      "term": "utilicen",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.773,
+      "clase": "resto"
+    },
+    {
+      "term": "queda",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "ejercicio",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "mismo",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "hace",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.805,
+      "clase": "resto"
+    },
+    {
+      "term": "deberá",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.783,
+      "clase": "resto"
+    },
+    {
+      "term": "papel",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.805,
+      "clase": "resto"
+    },
+    {
+      "term": "base",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "puedo",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "medidas",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "menos",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "empezar",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "clave",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "equipo",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.732,
+      "clase": "resto"
+    },
+    {
+      "term": "plazos",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "otra",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "respecto",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "sean",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.79,
+      "clase": "resto"
+    },
+    {
+      "term": "siendo",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.763,
+      "clase": "resto"
+    },
+    {
+      "term": "tres",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.72,
+      "clase": "resto"
+    },
+    {
+      "term": "modificación",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.79,
+      "clase": "resto"
+    },
+    {
+      "term": "actividades",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.79,
+      "clase": "resto"
+    },
+    {
+      "term": "emisor",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.79,
+      "clase": "resto"
+    },
+    {
+      "term": "adicionales",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.79,
+      "clase": "resto"
+    },
+    {
+      "term": "último",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.789,
+      "clase": "resto"
+    },
+    {
+      "term": "sigue siendo",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.759,
+      "clase": "resto"
+    },
+    {
+      "term": "grandes",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.789,
+      "clase": "resto"
+    },
+    {
+      "term": "resumen",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.789,
+      "clase": "resto"
+    },
+    {
+      "term": "volumen",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.759,
+      "clase": "resto"
+    },
+    {
+      "term": "pago",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.759,
+      "clase": "resto"
+    },
+    {
+      "term": "ventas",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.759,
+      "clase": "resto"
+    },
+    {
+      "term": "tenga",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.759,
+      "clase": "resto"
+    },
+    {
+      "term": "herramienta",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.789,
+      "clase": "resto"
+    },
+    {
+      "term": "adoptar",
+      "cobertura": 0.67,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.789,
+      "clase": "resto"
+    }
+  ]
+}

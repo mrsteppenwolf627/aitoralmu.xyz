@@ -1,0 +1,2421 @@
+{
+  "seed": "hosting",
+  "paginas_validas": 10,
+  "paginas_descartadas": [
+    "https://blog.hubspot.es/website/hosting?dsktp=1"
+  ],
+  "urls_validas": [
+    "https://www.tiendanube.com/blog/tipos-de-hosting/",
+    "https://wwwhatsnew.com/2024/02/15/comparativa-sobre-los-servicios-de-hosting-que-hay-en-el-mercado/",
+    "https://asest.es/story/que-es-hosting-en-marketing/",
+    "https://tecnobits.net/hosting-web/",
+    "https://www.godaddy.com/resources/latam/stories/web-hosting-para-pymes-de-latinoamerica",
+    "https://www.elespanol.com/imprescindibles/20260529/mejores-hostings-nominalia-ionos-hostinger/1003744265076_0.amp.html",
+    "https://www.bitcatcha.com/es/mejores-hostings/comparacion/",
+    "https://asest.es/story/hosting-para-emprendedores-y-pymes/",
+    "https://www.elgrupoinformatico.com/n/comparativa-mejor-hosting/",
+    "https://www.godaddy.com/resources/latam/tips-elegir-hosting-para-pymes"
+  ],
+  "terminos": [
+    {
+      "term": "hosting",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 397,
+      "H_norm": 0.869,
+      "clase": "consenso"
+    },
+    {
+      "term": "web",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 298,
+      "H_norm": 0.927,
+      "clase": "consenso"
+    },
+    {
+      "term": "mejor",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 75,
+      "H_norm": 0.81,
+      "clase": "consenso"
+    },
+    {
+      "term": "dominio",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 72,
+      "H_norm": 0.857,
+      "clase": "consenso"
+    },
+    {
+      "term": "seguridad",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 60,
+      "H_norm": 0.862,
+      "clase": "consenso"
+    },
+    {
+      "term": "planes",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 60,
+      "H_norm": 0.852,
+      "clase": "consenso"
+    },
+    {
+      "term": "servicios",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 41,
+      "H_norm": 0.834,
+      "clase": "consenso"
+    },
+    {
+      "term": "recursos",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 40,
+      "H_norm": 0.856,
+      "clase": "consenso"
+    },
+    {
+      "term": "almacenamiento",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 38,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "son",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 36,
+      "H_norm": 0.881,
+      "clase": "consenso"
+    },
+    {
+      "term": "servidores",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 35,
+      "H_norm": 0.88,
+      "clase": "consenso"
+    },
+    {
+      "term": "datos",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 35,
+      "H_norm": 0.811,
+      "clase": "consenso"
+    },
+    {
+      "term": "proveedores",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 29,
+      "H_norm": 0.847,
+      "clase": "consenso"
+    },
+    {
+      "term": "también",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 28,
+      "H_norm": 0.903,
+      "clase": "consenso"
+    },
+    {
+      "term": "cualquier",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 28,
+      "H_norm": 0.871,
+      "clase": "consenso"
+    },
+    {
+      "term": "cómo",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 28,
+      "H_norm": 0.833,
+      "clase": "consenso"
+    },
+    {
+      "term": "cada",
+      "cobertura": 0.9,
+      "paginas": 9,
+      "frecuencia_total": 28,
+      "H_norm": 0.919,
+      "clase": "consenso"
+    },
+    {
+      "term": "sitio",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 102,
+      "H_norm": 0.675,
+      "clase": "consenso"
+    },
+    {
+      "term": "alojamiento",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 79,
+      "H_norm": 0.759,
+      "clase": "consenso"
+    },
+    {
+      "term": "alojamiento web",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 79,
+      "H_norm": 0.759,
+      "clase": "consenso"
+    },
+    {
+      "term": "servidor",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 74,
+      "H_norm": 0.779,
+      "clase": "consenso"
+    },
+    {
+      "term": "elegir",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 53,
+      "H_norm": 0.77,
+      "clase": "consenso"
+    },
+    {
+      "term": "precio",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 53,
+      "H_norm": 0.676,
+      "clase": "consenso"
+    },
+    {
+      "term": "tráfico",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 51,
+      "H_norm": 0.725,
+      "clase": "consenso"
+    },
+    {
+      "term": "servicio",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 42,
+      "H_norm": 0.766,
+      "clase": "consenso"
+    },
+    {
+      "term": "sitios",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 42,
+      "H_norm": 0.692,
+      "clase": "consenso"
+    },
+    {
+      "term": "tipo",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 38,
+      "H_norm": 0.807,
+      "clase": "consenso"
+    },
+    {
+      "term": "página web",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 37,
+      "H_norm": 0.841,
+      "clase": "consenso"
+    },
+    {
+      "term": "página",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 37,
+      "H_norm": 0.841,
+      "clase": "consenso"
+    },
+    {
+      "term": "plan",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 36,
+      "H_norm": 0.8,
+      "clase": "consenso"
+    },
+    {
+      "term": "internet",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 27,
+      "H_norm": 0.843,
+      "clase": "consenso"
+    },
+    {
+      "term": "empresas",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 25,
+      "H_norm": 0.856,
+      "clase": "consenso"
+    },
+    {
+      "term": "control",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 25,
+      "H_norm": 0.821,
+      "clase": "consenso"
+    },
+    {
+      "term": "vps",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 23,
+      "H_norm": 0.793,
+      "clase": "consenso"
+    },
+    {
+      "term": "necesidades",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 22,
+      "H_norm": 0.845,
+      "clase": "consenso"
+    },
+    {
+      "term": "donde",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 20,
+      "H_norm": 0.772,
+      "clase": "consenso"
+    },
+    {
+      "term": "tiempo",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 19,
+      "H_norm": 0.81,
+      "clase": "consenso"
+    },
+    {
+      "term": "alta",
+      "cobertura": 0.8,
+      "paginas": 8,
+      "frecuencia_total": 16,
+      "H_norm": 0.785,
+      "clase": "consenso"
+    },
+    {
+      "term": "web hosting",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 251,
+      "H_norm": 0.897,
+      "clase": "consenso"
+    },
+    {
+      "term": "mejor hosting",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 71,
+      "H_norm": 0.813,
+      "clase": "consenso"
+    },
+    {
+      "term": "wordpress",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 68,
+      "H_norm": 0.773,
+      "clase": "consenso"
+    },
+    {
+      "term": "correo",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 66,
+      "H_norm": 0.626,
+      "clase": "consenso"
+    },
+    {
+      "term": "mes",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 64,
+      "H_norm": 0.687,
+      "clase": "consenso"
+    },
+    {
+      "term": "información",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 63,
+      "H_norm": 0.659,
+      "clase": "consenso"
+    },
+    {
+      "term": "soporte",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 60,
+      "H_norm": 0.788,
+      "clase": "consenso"
+    },
+    {
+      "term": "sitios web",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 42,
+      "H_norm": 0.692,
+      "clase": "consenso"
+    },
+    {
+      "term": "compartido",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 40,
+      "H_norm": 0.733,
+      "clase": "consenso"
+    },
+    {
+      "term": "proveedor",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 39,
+      "H_norm": 0.835,
+      "clase": "consenso"
+    },
+    {
+      "term": "tener",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 38,
+      "H_norm": 0.813,
+      "clase": "consenso"
+    },
+    {
+      "term": "ideal",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 38,
+      "H_norm": 0.716,
+      "clase": "consenso"
+    },
+    {
+      "term": "rendimiento",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 38,
+      "H_norm": 0.761,
+      "clase": "consenso"
+    },
+    {
+      "term": "precios",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 36,
+      "H_norm": 0.647,
+      "clase": "consenso"
+    },
+    {
+      "term": "días",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 35,
+      "H_norm": 0.47,
+      "clase": "consenso"
+    },
+    {
+      "term": "espacio",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 32,
+      "H_norm": 0.789,
+      "clase": "consenso"
+    },
+    {
+      "term": "negocio",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 31,
+      "H_norm": 0.747,
+      "clase": "consenso"
+    },
+    {
+      "term": "elegir mejor",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 30,
+      "H_norm": 0.831,
+      "clase": "consenso"
+    },
+    {
+      "term": "ssl",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 27,
+      "H_norm": 0.795,
+      "clase": "consenso"
+    },
+    {
+      "term": "usuarios",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 26,
+      "H_norm": 0.718,
+      "clase": "consenso"
+    },
+    {
+      "term": "velocidad",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 26,
+      "H_norm": 0.772,
+      "clase": "consenso"
+    },
+    {
+      "term": "todo",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 26,
+      "H_norm": 0.782,
+      "clase": "consenso"
+    },
+    {
+      "term": "está",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 26,
+      "H_norm": 0.762,
+      "clase": "consenso"
+    },
+    {
+      "term": "herramientas",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 25,
+      "H_norm": 0.718,
+      "clase": "consenso"
+    },
+    {
+      "term": "calidad",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 24,
+      "H_norm": 0.789,
+      "clase": "consenso"
+    },
+    {
+      "term": "todos",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 23,
+      "H_norm": 0.75,
+      "clase": "consenso"
+    },
+    {
+      "term": "tipos",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 22,
+      "H_norm": 0.764,
+      "clase": "consenso"
+    },
+    {
+      "term": "crear",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 21,
+      "H_norm": 0.774,
+      "clase": "consenso"
+    },
+    {
+      "term": "mismo",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 20,
+      "H_norm": 0.729,
+      "clase": "consenso"
+    },
+    {
+      "term": "mundo",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 19,
+      "H_norm": 0.752,
+      "clase": "consenso"
+    },
+    {
+      "term": "diferentes",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 17,
+      "H_norm": 0.809,
+      "clase": "consenso"
+    },
+    {
+      "term": "opción",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 16,
+      "H_norm": 0.769,
+      "clase": "consenso"
+    },
+    {
+      "term": "año",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 16,
+      "H_norm": 0.748,
+      "clase": "consenso"
+    },
+    {
+      "term": "cuando",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.785,
+      "clase": "consenso"
+    },
+    {
+      "term": "virtual",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.775,
+      "clase": "consenso"
+    },
+    {
+      "term": "alto",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.701,
+      "clase": "consenso"
+    },
+    {
+      "term": "páginas",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.727,
+      "clase": "consenso"
+    },
+    {
+      "term": "crecimiento",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.786,
+      "clase": "consenso"
+    },
+    {
+      "term": "copias",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.786,
+      "clase": "consenso"
+    },
+    {
+      "term": "copias seguridad",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.786,
+      "clase": "consenso"
+    },
+    {
+      "term": "gran",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.809,
+      "clase": "consenso"
+    },
+    {
+      "term": "pueden",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.809,
+      "clase": "consenso"
+    },
+    {
+      "term": "varios",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.759,
+      "clase": "consenso"
+    },
+    {
+      "term": "menos",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 11,
+      "H_norm": 0.802,
+      "clase": "consenso"
+    },
+    {
+      "term": "cuenta",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 10,
+      "H_norm": 0.819,
+      "clase": "consenso"
+    },
+    {
+      "term": "plataforma",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 10,
+      "H_norm": 0.759,
+      "clase": "consenso"
+    },
+    {
+      "term": "dedicados",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 9,
+      "H_norm": 0.82,
+      "clase": "consenso"
+    },
+    {
+      "term": "ofrecen",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 8,
+      "H_norm": 0.828,
+      "clase": "consenso"
+    },
+    {
+      "term": "otros",
+      "cobertura": 0.7,
+      "paginas": 7,
+      "frecuencia_total": 8,
+      "H_norm": 0.828,
+      "clase": "consenso"
+    },
+    {
+      "term": "hosting web",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 251,
+      "H_norm": 0.897,
+      "clase": "resto"
+    },
+    {
+      "term": "sitio web",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 102,
+      "H_norm": 0.675,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting wordpress",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 68,
+      "H_norm": 0.773,
+      "clase": "resto"
+    },
+    {
+      "term": "hostinger",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 65,
+      "H_norm": 0.673,
+      "clase": "resto"
+    },
+    {
+      "term": "2026",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 48,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting compartido",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 40,
+      "H_norm": 0.733,
+      "clase": "resto"
+    },
+    {
+      "term": "electrónico",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 34,
+      "H_norm": 0.624,
+      "clase": "resto"
+    },
+    {
+      "term": "correo electrónico",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 34,
+      "H_norm": 0.624,
+      "clase": "resto"
+    },
+    {
+      "term": "técnico",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 30,
+      "H_norm": 0.742,
+      "clase": "resto"
+    },
+    {
+      "term": "mejores",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 29,
+      "H_norm": 0.661,
+      "clase": "resto"
+    },
+    {
+      "term": "online",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 28,
+      "H_norm": 0.719,
+      "clase": "resto"
+    },
+    {
+      "term": "ofrece",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 27,
+      "H_norm": 0.701,
+      "clase": "resto"
+    },
+    {
+      "term": "carga",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 27,
+      "H_norm": 0.673,
+      "clase": "resto"
+    },
+    {
+      "term": "español",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 27,
+      "H_norm": 0.614,
+      "clase": "resto"
+    },
+    {
+      "term": "características",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 27,
+      "H_norm": 0.553,
+      "clase": "resto"
+    },
+    {
+      "term": "cuál",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 26,
+      "H_norm": 0.701,
+      "clase": "resto"
+    },
+    {
+      "term": "solo",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 25,
+      "H_norm": 0.654,
+      "clase": "resto"
+    },
+    {
+      "term": "tienda",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 24,
+      "H_norm": 0.577,
+      "clase": "resto"
+    },
+    {
+      "term": "cómo elegir",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 24,
+      "H_norm": 0.819,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting vps",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 23,
+      "H_norm": 0.793,
+      "clase": "resto"
+    },
+    {
+      "term": "gratuito",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 23,
+      "H_norm": 0.733,
+      "clase": "resto"
+    },
+    {
+      "term": "godaddy",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 21,
+      "H_norm": 0.702,
+      "clase": "resto"
+    },
+    {
+      "term": "necesitas",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 20,
+      "H_norm": 0.62,
+      "clase": "resto"
+    },
+    {
+      "term": "panel",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 20,
+      "H_norm": 0.701,
+      "clase": "resto"
+    },
+    {
+      "term": "archivos",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 19,
+      "H_norm": 0.69,
+      "clase": "resto"
+    },
+    {
+      "term": "tiene",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 19,
+      "H_norm": 0.665,
+      "clase": "resto"
+    },
+    {
+      "term": "comparativa",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.701,
+      "clase": "resto"
+    },
+    {
+      "term": "propio",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.716,
+      "clase": "resto"
+    },
+    {
+      "term": "proyecto",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.653,
+      "clase": "resto"
+    },
+    {
+      "term": "así",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.592,
+      "clase": "resto"
+    },
+    {
+      "term": "ejemplo",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.625,
+      "clase": "resto"
+    },
+    {
+      "term": "contratar",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.708,
+      "clase": "resto"
+    },
+    {
+      "term": "dominios",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.67,
+      "clase": "resto"
+    },
+    {
+      "term": "dedicado",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.708,
+      "clase": "resto"
+    },
+    {
+      "term": "muchos",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.702,
+      "clase": "resto"
+    },
+    {
+      "term": "hay",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.689,
+      "clase": "resto"
+    },
+    {
+      "term": "certificado",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.664,
+      "clase": "resto"
+    },
+    {
+      "term": "debes",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 14,
+      "H_norm": 0.681,
+      "clase": "resto"
+    },
+    {
+      "term": "contenido",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 14,
+      "H_norm": 0.727,
+      "clase": "resto"
+    },
+    {
+      "term": "cliente",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 14,
+      "H_norm": 0.743,
+      "clase": "resto"
+    },
+    {
+      "term": "certificado ssl",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 14,
+      "H_norm": 0.681,
+      "clase": "resto"
+    },
+    {
+      "term": "panel control",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 14,
+      "H_norm": 0.7,
+      "clase": "resto"
+    },
+    {
+      "term": "presupuesto",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "debe",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.688,
+      "clase": "resto"
+    },
+    {
+      "term": "premium",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "existen",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.713,
+      "clase": "resto"
+    },
+    {
+      "term": "diferencia",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.669,
+      "clase": "resto"
+    },
+    {
+      "term": "importante",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.713,
+      "clase": "resto"
+    },
+    {
+      "term": "algunos",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.713,
+      "clase": "resto"
+    },
+    {
+      "term": "incluye",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.726,
+      "clase": "resto"
+    },
+    {
+      "term": "lugar",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "dos",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.736,
+      "clase": "resto"
+    },
+    {
+      "term": "dinero",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.736,
+      "clase": "resto"
+    },
+    {
+      "term": "tecnología",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 10,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "atención",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "email",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.754,
+      "clase": "resto"
+    },
+    {
+      "term": "momento",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.754,
+      "clase": "resto"
+    },
+    {
+      "term": "gratis",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "siempre",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "toda",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.754,
+      "clase": "resto"
+    },
+    {
+      "term": "privado",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 9,
+      "H_norm": 0.754,
+      "clase": "resto"
+    },
+    {
+      "term": "gestión",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.724,
+      "clase": "resto"
+    },
+    {
+      "term": "usuario",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.753,
+      "clase": "resto"
+    },
+    {
+      "term": "saber",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 8,
+      "H_norm": 0.753,
+      "clase": "resto"
+    },
+    {
+      "term": "clic",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 7,
+      "H_norm": 0.759,
+      "clase": "resto"
+    },
+    {
+      "term": "diarias",
+      "cobertura": 0.6,
+      "paginas": 6,
+      "frecuencia_total": 6,
+      "H_norm": 0.778,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting hosting",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 397,
+      "H_norm": 0.869,
+      "clase": "resto"
+    },
+    {
+      "term": "planes hosting",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 60,
+      "H_norm": 0.852,
+      "clase": "resto"
+    },
+    {
+      "term": "elegir hosting",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 53,
+      "H_norm": 0.77,
+      "clase": "resto"
+    },
+    {
+      "term": "tipo hosting",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 38,
+      "H_norm": 0.807,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting son",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 36,
+      "H_norm": 0.881,
+      "clase": "resto"
+    },
+    {
+      "term": "plan hosting",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 36,
+      "H_norm": 0.8,
+      "clase": "resto"
+    },
+    {
+      "term": "chat",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 32,
+      "H_norm": 0.279,
+      "clase": "resto"
+    },
+    {
+      "term": "puede",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 31,
+      "H_norm": 0.676,
+      "clase": "resto"
+    },
+    {
+      "term": "cuentas",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 31,
+      "H_norm": 0.475,
+      "clase": "resto"
+    },
+    {
+      "term": "soporte técnico",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 30,
+      "H_norm": 0.742,
+      "clase": "resto"
+    },
+    {
+      "term": "proveedores hosting",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 29,
+      "H_norm": 0.847,
+      "clase": "resto"
+    },
+    {
+      "term": "cdn",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 28,
+      "H_norm": 0.456,
+      "clase": "resto"
+    },
+    {
+      "term": "tienes",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 26,
+      "H_norm": 0.632,
+      "clase": "resto"
+    },
+    {
+      "term": "tipos hosting",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 22,
+      "H_norm": 0.764,
+      "clase": "resto"
+    },
+    {
+      "term": "vps servidor",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 22,
+      "H_norm": 0.747,
+      "clase": "resto"
+    },
+    {
+      "term": "empresa",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 22,
+      "H_norm": 0.663,
+      "clase": "resto"
+    },
+    {
+      "term": "digital",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 22,
+      "H_norm": 0.592,
+      "clase": "resto"
+    },
+    {
+      "term": "productos",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 21,
+      "H_norm": 0.6,
+      "clase": "resto"
+    },
+    {
+      "term": "ser",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 20,
+      "H_norm": 0.647,
+      "clase": "resto"
+    },
+    {
+      "term": "rápido",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 20,
+      "H_norm": 0.589,
+      "clase": "resto"
+    },
+    {
+      "term": "disponible",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 19,
+      "H_norm": 0.453,
+      "clase": "resto"
+    },
+    {
+      "term": "calidad precio",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 19,
+      "H_norm": 0.724,
+      "clase": "resto"
+    },
+    {
+      "term": "incluido",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 17,
+      "H_norm": 0.57,
+      "clase": "resto"
+    },
+    {
+      "term": "mucho",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 17,
+      "H_norm": 0.635,
+      "clase": "resto"
+    },
+    {
+      "term": "mucho tráfico",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 16,
+      "H_norm": 0.632,
+      "clase": "resto"
+    },
+    {
+      "term": "velocidad carga",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 16,
+      "H_norm": 0.692,
+      "clase": "resto"
+    },
+    {
+      "term": "dirección",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 16,
+      "H_norm": 0.604,
+      "clase": "resto"
+    },
+    {
+      "term": "según",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 15,
+      "H_norm": 0.559,
+      "clase": "resto"
+    },
+    {
+      "term": "hasta",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 15,
+      "H_norm": 0.624,
+      "clase": "resto"
+    },
+    {
+      "term": "protección",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 14,
+      "H_norm": 0.544,
+      "clase": "resto"
+    },
+    {
+      "term": "permite",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 14,
+      "H_norm": 0.657,
+      "clase": "resto"
+    },
+    {
+      "term": "punto",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 14,
+      "H_norm": 0.432,
+      "clase": "resto"
+    },
+    {
+      "term": "además",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 13,
+      "H_norm": 0.625,
+      "clase": "resto"
+    },
+    {
+      "term": "acceso",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 13,
+      "H_norm": 0.651,
+      "clase": "resto"
+    },
+    {
+      "term": "primer",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 13,
+      "H_norm": 0.576,
+      "clase": "resto"
+    },
+    {
+      "term": "cloud",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 12,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "visitas",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 12,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "sea",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 12,
+      "H_norm": 0.637,
+      "clase": "resto"
+    },
+    {
+      "term": "google",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 12,
+      "H_norm": 0.571,
+      "clase": "resto"
+    },
+    {
+      "term": "disponibilidad",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 12,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "barato",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 12,
+      "H_norm": 0.618,
+      "clase": "resto"
+    },
+    {
+      "term": "tiendas",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.672,
+      "clase": "resto"
+    },
+    {
+      "term": "uso",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.562,
+      "clase": "resto"
+    },
+    {
+      "term": "experiencia",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.638,
+      "clase": "resto"
+    },
+    {
+      "term": "conocimientos",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.672,
+      "clase": "resto"
+    },
+    {
+      "term": "puedes",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.638,
+      "clase": "resto"
+    },
+    {
+      "term": "usar",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.604,
+      "clase": "resto"
+    },
+    {
+      "term": "mercado",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.594,
+      "clase": "resto"
+    },
+    {
+      "term": "tienen",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.638,
+      "clase": "resto"
+    },
+    {
+      "term": "excelente",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.604,
+      "clase": "resto"
+    },
+    {
+      "term": "gestionar",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.658,
+      "clase": "resto"
+    },
+    {
+      "term": "primer año",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 11,
+      "H_norm": 0.594,
+      "clase": "resto"
+    },
+    {
+      "term": "plataformas",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.654,
+      "clase": "resto"
+    },
+    {
+      "term": "opciones",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.639,
+      "clase": "resto"
+    },
+    {
+      "term": "poder",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "técnicos",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.654,
+      "clase": "resto"
+    },
+    {
+      "term": "imágenes",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.616,
+      "clase": "resto"
+    },
+    {
+      "term": "nuestra",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.639,
+      "clase": "resto"
+    },
+    {
+      "term": "funciona",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.639,
+      "clase": "resto"
+    },
+    {
+      "term": "tiendas online",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.654,
+      "clase": "resto"
+    },
+    {
+      "term": "nube",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.616,
+      "clase": "resto"
+    },
+    {
+      "term": "ancho",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.654,
+      "clase": "resto"
+    },
+    {
+      "term": "ancho banda",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.654,
+      "clase": "resto"
+    },
+    {
+      "term": "banda",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.654,
+      "clase": "resto"
+    },
+    {
+      "term": "presencia",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 10,
+      "H_norm": 0.639,
+      "clase": "resto"
+    },
+    {
+      "term": "pequeños",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.566,
+      "clase": "resto"
+    },
+    {
+      "term": "horas",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.661,
+      "clase": "resto"
+    },
+    {
+      "term": "dominio gratis",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "privado virtual",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.754,
+      "clase": "resto"
+    },
+    {
+      "term": "incluyen",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.62,
+      "clase": "resto"
+    },
+    {
+      "term": "básico",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.687,
+      "clase": "resto"
+    },
+    {
+      "term": "busca",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.62,
+      "clase": "resto"
+    },
+    {
+      "term": "recibir",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.636,
+      "clase": "resto"
+    },
+    {
+      "term": "servidor privado",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.754,
+      "clase": "resto"
+    },
+    {
+      "term": "caché",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.566,
+      "clase": "resto"
+    },
+    {
+      "term": "relación",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.661,
+      "clase": "resto"
+    },
+    {
+      "term": "relación calidad",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 9,
+      "H_norm": 0.661,
+      "clase": "resto"
+    },
+    {
+      "term": "mensuales",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.602,
+      "clase": "resto"
+    },
+    {
+      "term": "comercio",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.677,
+      "clase": "resto"
+    },
+    {
+      "term": "parte",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.649,
+      "clase": "resto"
+    },
+    {
+      "term": "comercio electrónico",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.677,
+      "clase": "resto"
+    },
+    {
+      "term": "rápida",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.602,
+      "clase": "resto"
+    },
+    {
+      "term": "día",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.649,
+      "clase": "resto"
+    },
+    {
+      "term": "caso",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.677,
+      "clase": "resto"
+    },
+    {
+      "term": "clave",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.649,
+      "clase": "resto"
+    },
+    {
+      "term": "principales",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.649,
+      "clase": "resto"
+    },
+    {
+      "term": "solución",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.677,
+      "clase": "resto"
+    },
+    {
+      "term": "completo",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.649,
+      "clase": "resto"
+    },
+    {
+      "term": "conoce",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 8,
+      "H_norm": 0.649,
+      "clase": "resto"
+    },
+    {
+      "term": "antes",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 7,
+      "H_norm": 0.641,
+      "clase": "resto"
+    },
+    {
+      "term": "estar",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 7,
+      "H_norm": 0.673,
+      "clase": "resto"
+    },
+    {
+      "term": "memoria",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 7,
+      "H_norm": 0.673,
+      "clase": "resto"
+    },
+    {
+      "term": "industria",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 7,
+      "H_norm": 0.673,
+      "clase": "resto"
+    },
+    {
+      "term": "competitivos",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 7,
+      "H_norm": 0.641,
+      "clase": "resto"
+    },
+    {
+      "term": "tiempos",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 7,
+      "H_norm": 0.641,
+      "clase": "resto"
+    },
+    {
+      "term": "hacer",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "certificados",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "seguro",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "caro",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "problemas",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "accesible",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "ubicación",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "destaca",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "están",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "profesional",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 6,
+      "H_norm": 0.678,
+      "clase": "resto"
+    },
+    {
+      "term": "tengas",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 5,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "significa",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 5,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "alojar",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 5,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "han",
+      "cobertura": 0.5,
+      "paginas": 5,
+      "frecuencia_total": 5,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "dominio hosting",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 72,
+      "H_norm": 0.857,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting hostinger",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 49,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "2026 hosting",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 48,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "pymes",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 39,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "tener hosting",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 38,
+      "H_norm": 0.813,
+      "clase": "resto"
+    },
+    {
+      "term": "servicios alojamiento",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 36,
+      "H_norm": 0.779,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting espacio",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 32,
+      "H_norm": 0.789,
+      "clase": "resto"
+    },
+    {
+      "term": "ssd",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 30,
+      "H_norm": 0.272,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting cada",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 28,
+      "H_norm": 0.919,
+      "clase": "resto"
+    },
+    {
+      "term": "cuentas correo",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 28,
+      "H_norm": 0.467,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting cómo",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 28,
+      "H_norm": 0.833,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting gratuito",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 23,
+      "H_norm": 0.733,
+      "clase": "resto"
+    },
+    {
+      "term": "cpanel",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 23,
+      "H_norm": 0.327,
+      "clase": "resto"
+    },
+    {
+      "term": "todo tipo",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 21,
+      "H_norm": 0.761,
+      "clase": "resto"
+    },
+    {
+      "term": "productos servicios",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 21,
+      "H_norm": 0.6,
+      "clase": "resto"
+    },
+    {
+      "term": "espacio almacenamiento",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 20,
+      "H_norm": 0.753,
+      "clase": "resto"
+    },
+    {
+      "term": "méxico",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 20,
+      "H_norm": 0.255,
+      "clase": "resto"
+    },
+    {
+      "term": "hostings",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 20,
+      "H_norm": 0.434,
+      "clase": "resto"
+    },
+    {
+      "term": "proyectos",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 20,
+      "H_norm": 0.44,
+      "clase": "resto"
+    },
+    {
+      "term": "latinoamérica",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 19,
+      "H_norm": 0.43,
+      "clase": "resto"
+    },
+    {
+      "term": "siteground",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 19,
+      "H_norm": 0.484,
+      "clase": "resto"
+    },
+    {
+      "term": "100",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 18,
+      "H_norm": 0.547,
+      "clase": "resto"
+    },
+    {
+      "term": "propio dominio",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 17,
+      "H_norm": 0.728,
+      "clase": "resto"
+    },
+    {
+      "term": "buen",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 17,
+      "H_norm": 0.535,
+      "clase": "resto"
+    },
+    {
+      "term": "tienda online",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 17,
+      "H_norm": 0.619,
+      "clase": "resto"
+    },
+    {
+      "term": "ssl gratuito",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 17,
+      "H_norm": 0.671,
+      "clase": "resto"
+    },
+    {
+      "term": "nvme",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 17,
+      "H_norm": 0.398,
+      "clase": "resto"
+    },
+    {
+      "term": "hostgator",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 16,
+      "H_norm": 0.543,
+      "clase": "resto"
+    },
+    {
+      "term": "mundo digital",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 16,
+      "H_norm": 0.617,
+      "clase": "resto"
+    },
+    {
+      "term": "webs",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 16,
+      "H_norm": 0.461,
+      "clase": "resto"
+    },
+    {
+      "term": "negocios",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 15,
+      "H_norm": 0.468,
+      "clase": "resto"
+    },
+    {
+      "term": "pago",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 15,
+      "H_norm": 0.519,
+      "clase": "resto"
+    },
+    {
+      "term": "páginas web",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 14,
+      "H_norm": 0.727,
+      "clase": "resto"
+    },
+    {
+      "term": "mismo servidor",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 14,
+      "H_norm": 0.751,
+      "clase": "resto"
+    },
+    {
+      "term": "clientes",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 13,
+      "H_norm": 0.486,
+      "clase": "resto"
+    },
+    {
+      "term": "está disponible",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 13,
+      "H_norm": 0.512,
+      "clase": "resto"
+    },
+    {
+      "term": "ver",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 13,
+      "H_norm": 0.345,
+      "clase": "resto"
+    },
+    {
+      "term": "cloud hosting",
+      "cobertura": 0.4,
+      "paginas": 4,
+      "frecuencia_total": 12,
+      "H_norm": 0.659,
+      "clase": "resto"
+    }
+  ]
+}

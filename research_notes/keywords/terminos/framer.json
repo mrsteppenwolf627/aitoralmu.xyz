@@ -1,0 +1,2421 @@
+{
+  "seed": "framer",
+  "paginas_validas": 5,
+  "paginas_descartadas": [
+    "https://www.toolmage.com/es/compare/framer-vs-webb/",
+    "https://www.g2.com/compare/framer-vs-vev",
+    "https://www.wmtips.com/technologies/compare/framer-vs-webstudio/",
+    "https://creati.ai/es/ai-tools/framer-ai/",
+    "https://toolquestor.com/es/vs/framer-vs-webwave",
+    "https://aiagentrank.io/blog/framer-ai-review-2026"
+  ],
+  "urls_validas": [
+    "https://lilys.ai/es/notes/framer-ai-20251203/framer-review-best-ai-website-builder",
+    "https://www.capterra.com/p/178917/Framer/reviews/",
+    "https://similarlabs.com/es/blog/framer-review",
+    "https://flowstep.ai/blog/framer-review/",
+    "https://superdesign.dev/blog/framer-ai-review"
+  ],
+  "terminos": [
+    {
+      "term": "framer",
+      "cobertura": 1.0,
+      "paginas": 5,
+      "frecuencia_total": 262,
+      "H_norm": 0.963,
+      "clase": "consenso"
+    },
+    {
+      "term": "code",
+      "cobertura": 1.0,
+      "paginas": 5,
+      "frecuencia_total": 47,
+      "H_norm": 0.955,
+      "clase": "consenso"
+    },
+    {
+      "term": "page",
+      "cobertura": 1.0,
+      "paginas": 5,
+      "frecuencia_total": 28,
+      "H_norm": 0.86,
+      "clase": "consenso"
+    },
+    {
+      "term": "basic",
+      "cobertura": 1.0,
+      "paginas": 5,
+      "frecuencia_total": 22,
+      "H_norm": 0.736,
+      "clase": "consenso"
+    },
+    {
+      "term": "wordpress",
+      "cobertura": 1.0,
+      "paginas": 5,
+      "frecuencia_total": 15,
+      "H_norm": 0.947,
+      "clase": "consenso"
+    },
+    {
+      "term": "drop",
+      "cobertura": 1.0,
+      "paginas": 5,
+      "frecuencia_total": 5,
+      "H_norm": 1.0,
+      "clase": "consenso"
+    },
+    {
+      "term": "review",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 94,
+      "H_norm": 0.416,
+      "clase": "consenso"
+    },
+    {
+      "term": "design",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 71,
+      "H_norm": 0.66,
+      "clase": "consenso"
+    },
+    {
+      "term": "framer review",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 71,
+      "H_norm": 0.503,
+      "clase": "consenso"
+    },
+    {
+      "term": "cms",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 45,
+      "H_norm": 0.787,
+      "clase": "consenso"
+    },
+    {
+      "term": "site",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 42,
+      "H_norm": 0.734,
+      "clase": "consenso"
+    },
+    {
+      "term": "reviews",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 40,
+      "H_norm": 0.217,
+      "clase": "consenso"
+    },
+    {
+      "term": "user",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 35,
+      "H_norm": 0.295,
+      "clase": "consenso"
+    },
+    {
+      "term": "pro",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 35,
+      "H_norm": 0.625,
+      "clase": "consenso"
+    },
+    {
+      "term": "free",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 35,
+      "H_norm": 0.853,
+      "clase": "consenso"
+    },
+    {
+      "term": "website",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 34,
+      "H_norm": 0.673,
+      "clase": "consenso"
+    },
+    {
+      "term": "web",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 33,
+      "H_norm": 0.735,
+      "clase": "consenso"
+    },
+    {
+      "term": "figma",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 32,
+      "H_norm": 0.772,
+      "clase": "consenso"
+    },
+    {
+      "term": "plan",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 26,
+      "H_norm": 0.775,
+      "clase": "consenso"
+    },
+    {
+      "term": "real",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 26,
+      "H_norm": 0.756,
+      "clase": "consenso"
+    },
+    {
+      "term": "2026",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 24,
+      "H_norm": 0.711,
+      "clase": "consenso"
+    },
+    {
+      "term": "has",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 23,
+      "H_norm": 0.596,
+      "clase": "consenso"
+    },
+    {
+      "term": "pricing",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 23,
+      "H_norm": 0.779,
+      "clase": "consenso"
+    },
+    {
+      "term": "like",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 22,
+      "H_norm": 0.546,
+      "clase": "consenso"
+    },
+    {
+      "term": "pages",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 20,
+      "H_norm": 0.66,
+      "clase": "consenso"
+    },
+    {
+      "term": "how",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 20,
+      "H_norm": 0.741,
+      "clase": "consenso"
+    },
+    {
+      "term": "editor",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 19,
+      "H_norm": 0.723,
+      "clase": "consenso"
+    },
+    {
+      "term": "seo",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 16,
+      "H_norm": 0.71,
+      "clase": "consenso"
+    },
+    {
+      "term": "builder",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 16,
+      "H_norm": 0.821,
+      "clase": "consenso"
+    },
+    {
+      "term": "000",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 13,
+      "H_norm": 0.79,
+      "clase": "consenso"
+    },
+    {
+      "term": "made",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 11,
+      "H_norm": 0.696,
+      "clase": "consenso"
+    },
+    {
+      "term": "landing",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 11,
+      "H_norm": 0.771,
+      "clase": "consenso"
+    },
+    {
+      "term": "plugins",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 9,
+      "H_norm": 0.814,
+      "clase": "consenso"
+    },
+    {
+      "term": "start",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 8,
+      "H_norm": 0.754,
+      "clase": "consenso"
+    },
+    {
+      "term": "simple",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 8,
+      "H_norm": 0.754,
+      "clase": "consenso"
+    },
+    {
+      "term": "community",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 7,
+      "H_norm": 0.84,
+      "clase": "consenso"
+    },
+    {
+      "term": "landing pages",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 7,
+      "H_norm": 0.793,
+      "clase": "consenso"
+    },
+    {
+      "term": "every",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 6,
+      "H_norm": 0.772,
+      "clase": "consenso"
+    },
+    {
+      "term": "drag drop",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 4,
+      "H_norm": 0.861,
+      "clase": "consenso"
+    },
+    {
+      "term": "drag",
+      "cobertura": 0.8,
+      "paginas": 4,
+      "frecuencia_total": 4,
+      "H_norm": 0.861,
+      "clase": "consenso"
+    },
+    {
+      "term": "framer framer",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 262,
+      "H_norm": 0.963,
+      "clase": "resto"
+    },
+    {
+      "term": "use",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 67,
+      "H_norm": 0.352,
+      "clase": "resto"
+    },
+    {
+      "term": "features",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 54,
+      "H_norm": 0.478,
+      "clase": "resto"
+    },
+    {
+      "term": "can",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 49,
+      "H_norm": 0.591,
+      "clase": "resto"
+    },
+    {
+      "term": "all",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 41,
+      "H_norm": 0.322,
+      "clase": "resto"
+    },
+    {
+      "term": "product",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 39,
+      "H_norm": 0.566,
+      "clase": "resto"
+    },
+    {
+      "term": "not",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 35,
+      "H_norm": 0.673,
+      "clase": "resto"
+    },
+    {
+      "term": "users",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 34,
+      "H_norm": 0.596,
+      "clase": "resto"
+    },
+    {
+      "term": "any",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 32,
+      "H_norm": 0.335,
+      "clase": "resto"
+    },
+    {
+      "term": "what framer",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 31,
+      "H_norm": 0.67,
+      "clase": "resto"
+    },
+    {
+      "term": "what",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 31,
+      "H_norm": 0.67,
+      "clase": "resto"
+    },
+    {
+      "term": "process",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 31,
+      "H_norm": 0.236,
+      "clase": "resto"
+    },
+    {
+      "term": "but",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 30,
+      "H_norm": 0.558,
+      "clase": "resto"
+    },
+    {
+      "term": "than",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 29,
+      "H_norm": 0.517,
+      "clase": "resto"
+    },
+    {
+      "term": "cons",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 29,
+      "H_norm": 0.186,
+      "clase": "resto"
+    },
+    {
+      "term": "pros",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 29,
+      "H_norm": 0.248,
+      "clase": "resto"
+    },
+    {
+      "term": "pros cons",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 28,
+      "H_norm": 0.191,
+      "clase": "resto"
+    },
+    {
+      "term": "view",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 27,
+      "H_norm": 0.196,
+      "clase": "resto"
+    },
+    {
+      "term": "tool",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 27,
+      "H_norm": 0.598,
+      "clase": "resto"
+    },
+    {
+      "term": "positive",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 27,
+      "H_norm": 0.196,
+      "clase": "resto"
+    },
+    {
+      "term": "more",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 26,
+      "H_norm": 0.427,
+      "clase": "resto"
+    },
+    {
+      "term": "one",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 24,
+      "H_norm": 0.67,
+      "clase": "resto"
+    },
+    {
+      "term": "have",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 24,
+      "H_norm": 0.448,
+      "clase": "resto"
+    },
+    {
+      "term": "framer has",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 23,
+      "H_norm": 0.596,
+      "clase": "resto"
+    },
+    {
+      "term": "webflow",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 22,
+      "H_norm": 0.509,
+      "clase": "resto"
+    },
+    {
+      "term": "time",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 22,
+      "H_norm": 0.358,
+      "clase": "resto"
+    },
+    {
+      "term": "basic pro",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 21,
+      "H_norm": 0.65,
+      "clase": "resto"
+    },
+    {
+      "term": "designers",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 21,
+      "H_norm": 0.565,
+      "clase": "resto"
+    },
+    {
+      "term": "was",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 20,
+      "H_norm": 0.322,
+      "clase": "resto"
+    },
+    {
+      "term": "add",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 20,
+      "H_norm": 0.586,
+      "clase": "resto"
+    },
+    {
+      "term": "live",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 19,
+      "H_norm": 0.57,
+      "clase": "resto"
+    },
+    {
+      "term": "sites",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 19,
+      "H_norm": 0.536,
+      "clase": "resto"
+    },
+    {
+      "term": "some",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 19,
+      "H_norm": 0.57,
+      "clase": "resto"
+    },
+    {
+      "term": "real users",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 19,
+      "H_norm": 0.65,
+      "clase": "resto"
+    },
+    {
+      "term": "app",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 19,
+      "H_norm": 0.675,
+      "clase": "resto"
+    },
+    {
+      "term": "get",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 19,
+      "H_norm": 0.521,
+      "clase": "resto"
+    },
+    {
+      "term": "canvas",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 18,
+      "H_norm": 0.539,
+      "clase": "resto"
+    },
+    {
+      "term": "about",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 17,
+      "H_norm": 0.623,
+      "clase": "resto"
+    },
+    {
+      "term": "make",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 17,
+      "H_norm": 0.276,
+      "clase": "resto"
+    },
+    {
+      "term": "workshop",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 17,
+      "H_norm": 0.359,
+      "clase": "resto"
+    },
+    {
+      "term": "wireframer",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 17,
+      "H_norm": 0.359,
+      "clase": "resto"
+    },
+    {
+      "term": "need",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 16,
+      "H_norm": 0.605,
+      "clase": "resto"
+    },
+    {
+      "term": "want",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 16,
+      "H_norm": 0.559,
+      "clase": "resto"
+    },
+    {
+      "term": "support",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 16,
+      "H_norm": 0.537,
+      "clase": "resto"
+    },
+    {
+      "term": "good",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 16,
+      "H_norm": 0.437,
+      "clase": "resto"
+    },
+    {
+      "term": "there",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 15,
+      "H_norm": 0.535,
+      "clase": "resto"
+    },
+    {
+      "term": "its",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 15,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "when",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 14,
+      "H_norm": 0.554,
+      "clase": "resto"
+    },
+    {
+      "term": "best",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 14,
+      "H_norm": 0.408,
+      "clase": "resto"
+    },
+    {
+      "term": "marketing",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 14,
+      "H_norm": 0.643,
+      "clase": "resto"
+    },
+    {
+      "term": "website builder",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 14,
+      "H_norm": 0.793,
+      "clase": "resto"
+    },
+    {
+      "term": "really",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 14,
+      "H_norm": 0.316,
+      "clase": "resto"
+    },
+    {
+      "term": "who",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 13,
+      "H_norm": 0.534,
+      "clase": "resto"
+    },
+    {
+      "term": "components",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 13,
+      "H_norm": 0.491,
+      "clase": "resto"
+    },
+    {
+      "term": "just",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 13,
+      "H_norm": 0.491,
+      "clase": "resto"
+    },
+    {
+      "term": "very",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 12,
+      "H_norm": 0.352,
+      "clase": "resto"
+    },
+    {
+      "term": "paid",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 12,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "because",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 12,
+      "H_norm": 0.639,
+      "clase": "resto"
+    },
+    {
+      "term": "out",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 12,
+      "H_norm": 0.596,
+      "clase": "resto"
+    },
+    {
+      "term": "wix",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 11,
+      "H_norm": 0.472,
+      "clase": "resto"
+    },
+    {
+      "term": "does",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 11,
+      "H_norm": 0.564,
+      "clase": "resto"
+    },
+    {
+      "term": "tools",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 11,
+      "H_norm": 0.677,
+      "clase": "resto"
+    },
+    {
+      "term": "build",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 11,
+      "H_norm": 0.644,
+      "clase": "resto"
+    },
+    {
+      "term": "does framer",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 11,
+      "H_norm": 0.564,
+      "clase": "resto"
+    },
+    {
+      "term": "prompt",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.586,
+      "clase": "resto"
+    },
+    {
+      "term": "100",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.498,
+      "clase": "resto"
+    },
+    {
+      "term": "they",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.498,
+      "clase": "resto"
+    },
+    {
+      "term": "should",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.64,
+      "clase": "resto"
+    },
+    {
+      "term": "quality",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.677,
+      "clase": "resto"
+    },
+    {
+      "term": "which",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.397,
+      "clase": "resto"
+    },
+    {
+      "term": "reviewer",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.397,
+      "clase": "resto"
+    },
+    {
+      "term": "where",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "scale",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.586,
+      "clase": "resto"
+    },
+    {
+      "term": "commerce",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.397,
+      "clase": "resto"
+    },
+    {
+      "term": "hard",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.586,
+      "clase": "resto"
+    },
+    {
+      "term": "content",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 10,
+      "H_norm": 0.498,
+      "clase": "resto"
+    },
+    {
+      "term": "feature",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.582,
+      "clase": "resto"
+    },
+    {
+      "term": "quickly",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "workflow",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.618,
+      "clase": "resto"
+    },
+    {
+      "term": "plans",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "before",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.527,
+      "clase": "resto"
+    },
+    {
+      "term": "multiple",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "complex",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.618,
+      "clase": "resto"
+    },
+    {
+      "term": "now",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "people",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.527,
+      "clase": "resto"
+    },
+    {
+      "term": "hosting",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.527,
+      "clase": "resto"
+    },
+    {
+      "term": "locales",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 9,
+      "H_norm": 0.6,
+      "clase": "resto"
+    },
+    {
+      "term": "2025",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.559,
+      "clase": "resto"
+    },
+    {
+      "term": "genuinely",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.457,
+      "clase": "resto"
+    },
+    {
+      "term": "plus",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.457,
+      "clase": "resto"
+    },
+    {
+      "term": "fit",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.605,
+      "clase": "resto"
+    },
+    {
+      "term": "without",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.559,
+      "clase": "resto"
+    },
+    {
+      "term": "building",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.457,
+      "clase": "resto"
+    },
+    {
+      "term": "using",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.605,
+      "clase": "resto"
+    },
+    {
+      "term": "still",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.457,
+      "clase": "resto"
+    },
+    {
+      "term": "better",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.457,
+      "clase": "resto"
+    },
+    {
+      "term": "enterprise",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 8,
+      "H_norm": 0.605,
+      "clase": "resto"
+    },
+    {
+      "term": "text",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.495,
+      "clase": "resto"
+    },
+    {
+      "term": "include",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.594,
+      "clase": "resto"
+    },
+    {
+      "term": "know",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.495,
+      "clase": "resto"
+    },
+    {
+      "term": "something",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.624,
+      "clase": "resto"
+    },
+    {
+      "term": "say",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.67,
+      "clase": "resto"
+    },
+    {
+      "term": "built",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.594,
+      "clase": "resto"
+    },
+    {
+      "term": "inside",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.495,
+      "clase": "resto"
+    },
+    {
+      "term": "responsive",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.67,
+      "clase": "resto"
+    },
+    {
+      "term": "high",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 7,
+      "H_norm": 0.594,
+      "clase": "resto"
+    },
+    {
+      "term": "images",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "production",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "create",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.539,
+      "clase": "resto"
+    },
+    {
+      "term": "same",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "both",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "away",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.539,
+      "clase": "resto"
+    },
+    {
+      "term": "speed",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "faster",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "designing",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.539,
+      "clase": "resto"
+    },
+    {
+      "term": "test",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "react",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 6,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "control",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "generate",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "will",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "motion",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "advanced",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "understand",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "additional",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "many",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "point",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "look",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "motion design",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "project",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "templates",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "layout",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "google",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 5,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "chat",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "ideal",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "html",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "form",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "squarespace",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "trying",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "around",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "links",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "stop",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "feels",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "ever",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "interactive",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "entire site",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "everything",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "doesn",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "hours",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "top",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "help",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "manage",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "entire",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "come",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "add ons",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "across",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "above",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "those",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "ons",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "natural",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "right",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "version",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 4,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "performance",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "edit",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "assets",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "working",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "platforms",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "change",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "different",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "let",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "reddit",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "layouts",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "final",
+      "cobertura": 0.6,
+      "paginas": 3,
+      "frecuencia_total": 3,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "use framer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 67,
+      "H_norm": 0.352,
+      "clase": "resto"
+    },
+    {
+      "term": "framer can",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 49,
+      "H_norm": 0.591,
+      "clase": "resto"
+    },
+    {
+      "term": "used framer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 46,
+      "H_norm": 0.15,
+      "clase": "resto"
+    },
+    {
+      "term": "used",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 46,
+      "H_norm": 0.15,
+      "clase": "resto"
+    },
+    {
+      "term": "framer site",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 42,
+      "H_norm": 0.734,
+      "clase": "resto"
+    },
+    {
+      "term": "less",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 41,
+      "H_norm": 0.071,
+      "clase": "resto"
+    },
+    {
+      "term": "framer reviews",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 40,
+      "H_norm": 0.217,
+      "clase": "resto"
+    },
+    {
+      "term": "product design",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 39,
+      "H_norm": 0.566,
+      "clase": "resto"
+    },
+    {
+      "term": "free framer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 35,
+      "H_norm": 0.853,
+      "clase": "resto"
+    },
+    {
+      "term": "framer free",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 35,
+      "H_norm": 0.853,
+      "clase": "resto"
+    },
+    {
+      "term": "framer user",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 35,
+      "H_norm": 0.295,
+      "clase": "resto"
+    },
+    {
+      "term": "framer website",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 34,
+      "H_norm": 0.673,
+      "clase": "resto"
+    },
+    {
+      "term": "process framer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 31,
+      "H_norm": 0.236,
+      "clase": "resto"
+    },
+    {
+      "term": "source",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 29,
+      "H_norm": 0.249,
+      "clase": "resto"
+    },
+    {
+      "term": "design tool",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 27,
+      "H_norm": 0.598,
+      "clase": "resto"
+    },
+    {
+      "term": "link",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 27,
+      "H_norm": 0.098,
+      "clase": "resto"
+    },
+    {
+      "term": "copied",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 27,
+      "H_norm": 0.098,
+      "clase": "resto"
+    },
+    {
+      "term": "reading",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 26,
+      "H_norm": 0.101,
+      "clase": "resto"
+    },
+    {
+      "term": "customer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 26,
+      "H_norm": 0.101,
+      "clase": "resto"
+    },
+    {
+      "term": "but not",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 26,
+      "H_norm": 0.59,
+      "clase": "resto"
+    },
+    {
+      "term": "prior",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 25,
+      "H_norm": 0.104,
+      "clase": "resto"
+    },
+    {
+      "term": "have design",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 24,
+      "H_norm": 0.448,
+      "clase": "resto"
+    },
+    {
+      "term": "framer have",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 24,
+      "H_norm": 0.448,
+      "clase": "resto"
+    },
+    {
+      "term": "2026 framer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 24,
+      "H_norm": 0.711,
+      "clase": "resto"
+    },
+    {
+      "term": "service",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 23,
+      "H_norm": 0.111,
+      "clase": "resto"
+    },
+    {
+      "term": "framer pricing",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 23,
+      "H_norm": 0.779,
+      "clase": "resto"
+    },
+    {
+      "term": "pricing framer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 23,
+      "H_norm": 0.779,
+      "clase": "resto"
+    },
+    {
+      "term": "what users",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 22,
+      "H_norm": 0.677,
+      "clase": "resto"
+    },
+    {
+      "term": "diseño",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 21,
+      "H_norm": 0.413,
+      "clase": "resto"
+    },
+    {
+      "term": "designer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 20,
+      "H_norm": 0.123,
+      "clase": "resto"
+    },
+    {
+      "term": "honest",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 20,
+      "H_norm": 0.38,
+      "clase": "resto"
+    },
+    {
+      "term": "sitios",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 19,
+      "H_norm": 0.358,
+      "clase": "resto"
+    },
+    {
+      "term": "their",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 19,
+      "H_norm": 0.271,
+      "clase": "resto"
+    },
+    {
+      "term": "framer app",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 19,
+      "H_norm": 0.675,
+      "clase": "resto"
+    },
+    {
+      "term": "verified",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 19,
+      "H_norm": 0.128,
+      "clase": "resto"
+    },
+    {
+      "term": "live page",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 19,
+      "H_norm": 0.57,
+      "clase": "resto"
+    },
+    {
+      "term": "framer canvas",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 18,
+      "H_norm": 0.539,
+      "clase": "resto"
+    },
+    {
+      "term": "about framer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 17,
+      "H_norm": 0.623,
+      "clase": "resto"
+    },
+    {
+      "term": "wireframer workshop",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 17,
+      "H_norm": 0.359,
+      "clase": "resto"
+    },
+    {
+      "term": "free basic",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 17,
+      "H_norm": 0.709,
+      "clase": "resto"
+    },
+    {
+      "term": "sitio",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.386,
+      "clase": "resto"
+    },
+    {
+      "term": "sitio web",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.386,
+      "clase": "resto"
+    },
+    {
+      "term": "also",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.411,
+      "clase": "resto"
+    },
+    {
+      "term": "but also",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.411,
+      "clase": "resto"
+    },
+    {
+      "term": "also get",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.411,
+      "clase": "resto"
+    },
+    {
+      "term": "great",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.145,
+      "clase": "resto"
+    },
+    {
+      "term": "own",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 16,
+      "H_norm": 0.3,
+      "clase": "resto"
+    },
+    {
+      "term": "mes",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 15,
+      "H_norm": 0.152,
+      "clase": "resto"
+    },
+    {
+      "term": "june",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 15,
+      "H_norm": 0.311,
+      "clase": "resto"
+    },
+    {
+      "term": "also has",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 15,
+      "H_norm": 0.395,
+      "clase": "resto"
+    },
+    {
+      "term": "learning",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 15,
+      "H_norm": 0.244,
+      "clase": "resto"
+    },
+    {
+      "term": "not really",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.316,
+      "clase": "resto"
+    },
+    {
+      "term": "than figma",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.405,
+      "clase": "resto"
+    },
+    {
+      "term": "invited",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 14,
+      "H_norm": 0.16,
+      "clase": "resto"
+    },
+    {
+      "term": "000 000",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.79,
+      "clase": "resto"
+    },
+    {
+      "term": "not just",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.491,
+      "clase": "resto"
+    },
+    {
+      "term": "non",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.168,
+      "clase": "resto"
+    },
+    {
+      "term": "team",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.429,
+      "clase": "resto"
+    },
+    {
+      "term": "into framer",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.429,
+      "clase": "resto"
+    },
+    {
+      "term": "into",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.429,
+      "clase": "resto"
+    },
+    {
+      "term": "site into",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 13,
+      "H_norm": 0.429,
+      "clase": "resto"
+    },
+    {
+      "term": "contenido",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.422,
+      "clase": "resto"
+    },
+    {
+      "term": "coding",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.28,
+      "clase": "resto"
+    },
+    {
+      "term": "framer very",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.352,
+      "clase": "resto"
+    },
+    {
+      "term": "paid add",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "pro month",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.349,
+      "clase": "resto"
+    },
+    {
+      "term": "month",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 12,
+      "H_norm": 0.349,
+      "clase": "resto"
+    },
+    {
+      "term": "may",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.189,
+      "clase": "resto"
+    },
+    {
+      "term": "development",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.189,
+      "clase": "resto"
+    },
+    {
+      "term": "been",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.364,
+      "clase": "resto"
+    },
+    {
+      "term": "other",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.407,
+      "clase": "resto"
+    },
+    {
+      "term": "than wordpress",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.644,
+      "clase": "resto"
+    },
+    {
+      "term": "billing",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.364,
+      "clase": "resto"
+    },
+    {
+      "term": "marketing sites",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 11,
+      "H_norm": 0.534,
+      "clase": "resto"
+    },
+    {
+      "term": "sitios web",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.431,
+      "clase": "resto"
+    },
+    {
+      "term": "diseños",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.311,
+      "clase": "resto"
+    },
+    {
+      "term": "way design",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.311,
+      "clase": "resto"
+    },
+    {
+      "term": "way",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.311,
+      "clase": "resto"
+    },
+    {
+      "term": "animations",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.38,
+      "clase": "resto"
+    },
+    {
+      "term": "landing page",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.795,
+      "clase": "resto"
+    },
+    {
+      "term": "they use",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.498,
+      "clase": "resto"
+    },
+    {
+      "term": "curve",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.311,
+      "clase": "resto"
+    },
+    {
+      "term": "much",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.202,
+      "clase": "resto"
+    },
+    {
+      "term": "learning curve",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.311,
+      "clase": "resto"
+    },
+    {
+      "term": "have been",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.311,
+      "clase": "resto"
+    },
+    {
+      "term": "custom",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.311,
+      "clase": "resto"
+    },
+    {
+      "term": "editors",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 10,
+      "H_norm": 0.311,
+      "clase": "resto"
+    },
+    {
+      "term": "tiene",
+      "cobertura": 0.4,
+      "paginas": 2,
+      "frecuencia_total": 9,
+      "H_norm": 0.395,
+      "clase": "resto"
+    }
+  ]
+}

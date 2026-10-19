@@ -1,0 +1,2424 @@
+{
+  "seed": "software crm",
+  "paginas_validas": 13,
+  "paginas_descartadas": [
+    "https://hackceleration.com/es/labs/mejor/crm-small-business"
+  ],
+  "urls_validas": [
+    "https://www.capterra.es/blog/6460/mejores-software-CRM-codigo-abierto",
+    "https://www.appvizer.es/revista/relacion-cliente/software-crm/comparativa-crm",
+    "https://www.appvizer.es/revista/relacion-cliente/software-crm/crm-para-pymes",
+    "https://www.softwaredoit.es/vtigerspain/vtigerspain.html",
+    "https://www.appvizer.es/revista/relacion-cliente/software-crm/crm-en-espanol",
+    "https://www.capterra.es/blog/492/mejores-software-crm-gratuitos-y-codigo-abierto",
+    "https://skipcall.io/es/blog/mejores-softwares-gestion-comercial-b2b",
+    "https://www.hubspot.es/comparisons/best-crm",
+    "https://leadsales.io/los-7-mejores-crms-para-pymes/",
+    "https://www.guiadesoftware.com/ranking/crm",
+    "https://www.appvizer.es/revista/relacion-cliente/software-crm/gestion-de-relaciones-con-el-cliente",
+    "https://asest.es/story/crm-para-los-empresarios/",
+    "https://www.softwaredoit.es/software-crm/que-es-un-crm.html"
+  ],
+  "terminos": [
+    {
+      "term": "crm",
+      "cobertura": 1.0,
+      "paginas": 13,
+      "frecuencia_total": 596,
+      "H_norm": 0.942,
+      "clase": "consenso"
+    },
+    {
+      "term": "clientes",
+      "cobertura": 1.0,
+      "paginas": 13,
+      "frecuencia_total": 237,
+      "H_norm": 0.862,
+      "clase": "consenso"
+    },
+    {
+      "term": "ventas",
+      "cobertura": 1.0,
+      "paginas": 13,
+      "frecuencia_total": 222,
+      "H_norm": 0.926,
+      "clase": "consenso"
+    },
+    {
+      "term": "marketing",
+      "cobertura": 1.0,
+      "paginas": 13,
+      "frecuencia_total": 148,
+      "H_norm": 0.906,
+      "clase": "consenso"
+    },
+    {
+      "term": "empresa",
+      "cobertura": 1.0,
+      "paginas": 13,
+      "frecuencia_total": 88,
+      "H_norm": 0.883,
+      "clase": "consenso"
+    },
+    {
+      "term": "mejor",
+      "cobertura": 1.0,
+      "paginas": 13,
+      "frecuencia_total": 72,
+      "H_norm": 0.916,
+      "clase": "consenso"
+    },
+    {
+      "term": "software",
+      "cobertura": 0.92,
+      "paginas": 12,
+      "frecuencia_total": 185,
+      "H_norm": 0.859,
+      "clase": "consenso"
+    },
+    {
+      "term": "cliente",
+      "cobertura": 0.92,
+      "paginas": 12,
+      "frecuencia_total": 155,
+      "H_norm": 0.872,
+      "clase": "consenso"
+    },
+    {
+      "term": "empresas",
+      "cobertura": 0.92,
+      "paginas": 12,
+      "frecuencia_total": 114,
+      "H_norm": 0.814,
+      "clase": "consenso"
+    },
+    {
+      "term": "herramientas",
+      "cobertura": 0.92,
+      "paginas": 12,
+      "frecuencia_total": 101,
+      "H_norm": 0.855,
+      "clase": "consenso"
+    },
+    {
+      "term": "seguimiento",
+      "cobertura": 0.92,
+      "paginas": 12,
+      "frecuencia_total": 92,
+      "H_norm": 0.844,
+      "clase": "consenso"
+    },
+    {
+      "term": "son",
+      "cobertura": 0.92,
+      "paginas": 12,
+      "frecuencia_total": 60,
+      "H_norm": 0.764,
+      "clase": "consenso"
+    },
+    {
+      "term": "todos",
+      "cobertura": 0.92,
+      "paginas": 12,
+      "frecuencia_total": 52,
+      "H_norm": 0.913,
+      "clase": "consenso"
+    },
+    {
+      "term": "mejores",
+      "cobertura": 0.92,
+      "paginas": 12,
+      "frecuencia_total": 50,
+      "H_norm": 0.831,
+      "clase": "consenso"
+    },
+    {
+      "term": "gestionar",
+      "cobertura": 0.92,
+      "paginas": 12,
+      "frecuencia_total": 42,
+      "H_norm": 0.911,
+      "clase": "consenso"
+    },
+    {
+      "term": "gestión",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 256,
+      "H_norm": 0.834,
+      "clase": "consenso"
+    },
+    {
+      "term": "software crm",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 177,
+      "H_norm": 0.864,
+      "clase": "consenso"
+    },
+    {
+      "term": "información",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 169,
+      "H_norm": 0.796,
+      "clase": "consenso"
+    },
+    {
+      "term": "usuarios",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 117,
+      "H_norm": 0.754,
+      "clase": "consenso"
+    },
+    {
+      "term": "datos",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 102,
+      "H_norm": 0.874,
+      "clase": "consenso"
+    },
+    {
+      "term": "equipo",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 95,
+      "H_norm": 0.78,
+      "clase": "consenso"
+    },
+    {
+      "term": "contactos",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 92,
+      "H_norm": 0.841,
+      "clase": "consenso"
+    },
+    {
+      "term": "ofrece",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 83,
+      "H_norm": 0.802,
+      "clase": "consenso"
+    },
+    {
+      "term": "cada",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 75,
+      "H_norm": 0.742,
+      "clase": "consenso"
+    },
+    {
+      "term": "automatización",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 75,
+      "H_norm": 0.785,
+      "clase": "consenso"
+    },
+    {
+      "term": "tiempo",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 65,
+      "H_norm": 0.771,
+      "clase": "consenso"
+    },
+    {
+      "term": "venta",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 62,
+      "H_norm": 0.848,
+      "clase": "consenso"
+    },
+    {
+      "term": "también",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 60,
+      "H_norm": 0.879,
+      "clase": "consenso"
+    },
+    {
+      "term": "herramienta",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 60,
+      "H_norm": 0.871,
+      "clase": "consenso"
+    },
+    {
+      "term": "ver",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 45,
+      "H_norm": 0.782,
+      "clase": "consenso"
+    },
+    {
+      "term": "todo",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 44,
+      "H_norm": 0.869,
+      "clase": "consenso"
+    },
+    {
+      "term": "soluciones",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 43,
+      "H_norm": 0.829,
+      "clase": "consenso"
+    },
+    {
+      "term": "solución",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 38,
+      "H_norm": 0.84,
+      "clase": "consenso"
+    },
+    {
+      "term": "hasta",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 38,
+      "H_norm": 0.834,
+      "clase": "consenso"
+    },
+    {
+      "term": "contacto",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 37,
+      "H_norm": 0.856,
+      "clase": "consenso"
+    },
+    {
+      "term": "según",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 33,
+      "H_norm": 0.83,
+      "clase": "consenso"
+    },
+    {
+      "term": "través",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 29,
+      "H_norm": 0.837,
+      "clase": "consenso"
+    },
+    {
+      "term": "otras",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 29,
+      "H_norm": 0.866,
+      "clase": "consenso"
+    },
+    {
+      "term": "solo",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 28,
+      "H_norm": 0.845,
+      "clase": "consenso"
+    },
+    {
+      "term": "tener",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 27,
+      "H_norm": 0.893,
+      "clase": "consenso"
+    },
+    {
+      "term": "redes",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 19,
+      "H_norm": 0.892,
+      "clase": "consenso"
+    },
+    {
+      "term": "parte",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 19,
+      "H_norm": 0.91,
+      "clase": "consenso"
+    },
+    {
+      "term": "sociales",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 18,
+      "H_norm": 0.905,
+      "clase": "consenso"
+    },
+    {
+      "term": "redes sociales",
+      "cobertura": 0.85,
+      "paginas": 11,
+      "frecuencia_total": 18,
+      "H_norm": 0.905,
+      "clase": "consenso"
+    },
+    {
+      "term": "crm software",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 177,
+      "H_norm": 0.864,
+      "clase": "consenso"
+    },
+    {
+      "term": "hubspot",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 94,
+      "H_norm": 0.806,
+      "clase": "consenso"
+    },
+    {
+      "term": "tareas",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 77,
+      "H_norm": 0.781,
+      "clase": "consenso"
+    },
+    {
+      "term": "permite",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 74,
+      "H_norm": 0.857,
+      "clase": "consenso"
+    },
+    {
+      "term": "zoho",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 67,
+      "H_norm": 0.789,
+      "clase": "consenso"
+    },
+    {
+      "term": "zoho crm",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 67,
+      "H_norm": 0.789,
+      "clase": "consenso"
+    },
+    {
+      "term": "pymes",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 57,
+      "H_norm": 0.748,
+      "clase": "consenso"
+    },
+    {
+      "term": "atención",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 56,
+      "H_norm": 0.847,
+      "clase": "consenso"
+    },
+    {
+      "term": "atención cliente",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 56,
+      "H_norm": 0.847,
+      "clase": "consenso"
+    },
+    {
+      "term": "negocio",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 54,
+      "H_norm": 0.813,
+      "clase": "consenso"
+    },
+    {
+      "term": "equipos",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 53,
+      "H_norm": 0.772,
+      "clase": "consenso"
+    },
+    {
+      "term": "relaciones clientes",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 51,
+      "H_norm": 0.819,
+      "clase": "consenso"
+    },
+    {
+      "term": "relaciones",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 51,
+      "H_norm": 0.819,
+      "clase": "consenso"
+    },
+    {
+      "term": "relación",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 50,
+      "H_norm": 0.818,
+      "clase": "consenso"
+    },
+    {
+      "term": "procesos",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 48,
+      "H_norm": 0.79,
+      "clase": "consenso"
+    },
+    {
+      "term": "interacciones",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 47,
+      "H_norm": 0.787,
+      "clase": "consenso"
+    },
+    {
+      "term": "necesidades",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 46,
+      "H_norm": 0.849,
+      "clase": "consenso"
+    },
+    {
+      "term": "correo",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 45,
+      "H_norm": 0.809,
+      "clase": "consenso"
+    },
+    {
+      "term": "oportunidades",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 44,
+      "H_norm": 0.82,
+      "clase": "consenso"
+    },
+    {
+      "term": "electrónico",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 44,
+      "H_norm": 0.788,
+      "clase": "consenso"
+    },
+    {
+      "term": "web",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 44,
+      "H_norm": 0.802,
+      "clase": "consenso"
+    },
+    {
+      "term": "base",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 40,
+      "H_norm": 0.836,
+      "clase": "consenso"
+    },
+    {
+      "term": "actividades",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 38,
+      "H_norm": 0.828,
+      "clase": "consenso"
+    },
+    {
+      "term": "correo electrónico",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 38,
+      "H_norm": 0.789,
+      "clase": "consenso"
+    },
+    {
+      "term": "cuenta",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 37,
+      "H_norm": 0.841,
+      "clase": "consenso"
+    },
+    {
+      "term": "está",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 37,
+      "H_norm": 0.825,
+      "clase": "consenso"
+    },
+    {
+      "term": "puede",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 36,
+      "H_norm": 0.803,
+      "clase": "consenso"
+    },
+    {
+      "term": "proceso",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 35,
+      "H_norm": 0.824,
+      "clase": "consenso"
+    },
+    {
+      "term": "mercado",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 31,
+      "H_norm": 0.813,
+      "clase": "consenso"
+    },
+    {
+      "term": "completa",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 30,
+      "H_norm": 0.778,
+      "clase": "consenso"
+    },
+    {
+      "term": "mejorar",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 29,
+      "H_norm": 0.812,
+      "clase": "consenso"
+    },
+    {
+      "term": "todas",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 29,
+      "H_norm": 0.765,
+      "clase": "consenso"
+    },
+    {
+      "term": "automatizar",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 28,
+      "H_norm": 0.789,
+      "clase": "consenso"
+    },
+    {
+      "term": "real",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 26,
+      "H_norm": 0.749,
+      "clase": "consenso"
+    },
+    {
+      "term": "elegir",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 26,
+      "H_norm": 0.775,
+      "clase": "consenso"
+    },
+    {
+      "term": "cualquier",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 25,
+      "H_norm": 0.805,
+      "clase": "consenso"
+    },
+    {
+      "term": "llamadas",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 23,
+      "H_norm": 0.857,
+      "clase": "consenso"
+    },
+    {
+      "term": "negocios",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 22,
+      "H_norm": 0.843,
+      "clase": "consenso"
+    },
+    {
+      "term": "crear",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 21,
+      "H_norm": 0.833,
+      "clase": "consenso"
+    },
+    {
+      "term": "hacer",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 20,
+      "H_norm": 0.784,
+      "clase": "consenso"
+    },
+    {
+      "term": "tipo",
+      "cobertura": 0.77,
+      "paginas": 10,
+      "frecuencia_total": 13,
+      "H_norm": 0.86,
+      "clase": "consenso"
+    },
+    {
+      "term": "ventas marketing",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 141,
+      "H_norm": 0.886,
+      "clase": "resto"
+    },
+    {
+      "term": "gestión contactos",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 77,
+      "H_norm": 0.795,
+      "clase": "resto"
+    },
+    {
+      "term": "comercial",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 75,
+      "H_norm": 0.693,
+      "clase": "resto"
+    },
+    {
+      "term": "usuario",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 64,
+      "H_norm": 0.695,
+      "clase": "resto"
+    },
+    {
+      "term": "trabajo",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 49,
+      "H_norm": 0.785,
+      "clase": "resto"
+    },
+    {
+      "term": "creación",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 43,
+      "H_norm": 0.681,
+      "clase": "resto"
+    },
+    {
+      "term": "integración",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 41,
+      "H_norm": 0.714,
+      "clase": "resto"
+    },
+    {
+      "term": "campañas",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 40,
+      "H_norm": 0.752,
+      "clase": "resto"
+    },
+    {
+      "term": "base datos",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 39,
+      "H_norm": 0.833,
+      "clase": "resto"
+    },
+    {
+      "term": "comerciales",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 37,
+      "H_norm": 0.78,
+      "clase": "resto"
+    },
+    {
+      "term": "puedes",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 34,
+      "H_norm": 0.66,
+      "clase": "resto"
+    },
+    {
+      "term": "calidad",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 33,
+      "H_norm": 0.733,
+      "clase": "resto"
+    },
+    {
+      "term": "correos",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 32,
+      "H_norm": 0.768,
+      "clase": "resto"
+    },
+    {
+      "term": "clave",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 30,
+      "H_norm": 0.782,
+      "clase": "resto"
+    },
+    {
+      "term": "historial",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 29,
+      "H_norm": 0.785,
+      "clase": "resto"
+    },
+    {
+      "term": "pipeline",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 28,
+      "H_norm": 0.749,
+      "clase": "resto"
+    },
+    {
+      "term": "rendimiento",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 27,
+      "H_norm": 0.777,
+      "clase": "resto"
+    },
+    {
+      "term": "forma",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 27,
+      "H_norm": 0.789,
+      "clase": "resto"
+    },
+    {
+      "term": "uso",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 26,
+      "H_norm": 0.661,
+      "clase": "resto"
+    },
+    {
+      "term": "productos",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 26,
+      "H_norm": 0.733,
+      "clase": "resto"
+    },
+    {
+      "term": "además",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 25,
+      "H_norm": 0.798,
+      "clase": "resto"
+    },
+    {
+      "term": "están",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 25,
+      "H_norm": 0.697,
+      "clase": "resto"
+    },
+    {
+      "term": "tiempo real",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 24,
+      "H_norm": 0.742,
+      "clase": "resto"
+    },
+    {
+      "term": "experiencia",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 24,
+      "H_norm": 0.752,
+      "clase": "resto"
+    },
+    {
+      "term": "mayor",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 22,
+      "H_norm": 0.775,
+      "clase": "resto"
+    },
+    {
+      "term": "menos",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 21,
+      "H_norm": 0.796,
+      "clase": "resto"
+    },
+    {
+      "term": "grandes",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 21,
+      "H_norm": 0.806,
+      "clase": "resto"
+    },
+    {
+      "term": "aumentar",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 19,
+      "H_norm": 0.785,
+      "clase": "resto"
+    },
+    {
+      "term": "criterios",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 18,
+      "H_norm": 0.793,
+      "clase": "resto"
+    },
+    {
+      "term": "sea",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 17,
+      "H_norm": 0.781,
+      "clase": "resto"
+    },
+    {
+      "term": "opción",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 17,
+      "H_norm": 0.806,
+      "clase": "resto"
+    },
+    {
+      "term": "generar",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 15,
+      "H_norm": 0.74,
+      "clase": "resto"
+    },
+    {
+      "term": "tanto",
+      "cobertura": 0.69,
+      "paginas": 9,
+      "frecuencia_total": 14,
+      "H_norm": 0.783,
+      "clase": "resto"
+    },
+    {
+      "term": "hubspot crm",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 94,
+      "H_norm": 0.806,
+      "clase": "resto"
+    },
+    {
+      "term": "funcionalidades",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 78,
+      "H_norm": 0.727,
+      "clase": "resto"
+    },
+    {
+      "term": "gratuita",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 72,
+      "H_norm": 0.646,
+      "clase": "resto"
+    },
+    {
+      "term": "versión",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 69,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "análisis",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 54,
+      "H_norm": 0.724,
+      "clase": "resto"
+    },
+    {
+      "term": "salesforce",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 51,
+      "H_norm": 0.683,
+      "clase": "resto"
+    },
+    {
+      "term": "gestión relaciones",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 46,
+      "H_norm": 0.816,
+      "clase": "resto"
+    },
+    {
+      "term": "pipedrive",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 45,
+      "H_norm": 0.704,
+      "clase": "resto"
+    },
+    {
+      "term": "funciones",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 40,
+      "H_norm": 0.601,
+      "clase": "resto"
+    },
+    {
+      "term": "informes",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 39,
+      "H_norm": 0.684,
+      "clase": "resto"
+    },
+    {
+      "term": "tiene",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 36,
+      "H_norm": 0.679,
+      "clase": "resto"
+    },
+    {
+      "term": "precio",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 36,
+      "H_norm": 0.734,
+      "clase": "resto"
+    },
+    {
+      "term": "otros",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 33,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "ayuda",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 32,
+      "H_norm": 0.736,
+      "clase": "resto"
+    },
+    {
+      "term": "servicio",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 32,
+      "H_norm": 0.771,
+      "clase": "resto"
+    },
+    {
+      "term": "optimizar",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 30,
+      "H_norm": 0.769,
+      "clase": "resto"
+    },
+    {
+      "term": "pequeñas",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 29,
+      "H_norm": 0.707,
+      "clase": "resto"
+    },
+    {
+      "term": "acceso",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 26,
+      "H_norm": 0.701,
+      "clase": "resto"
+    },
+    {
+      "term": "cómo",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 25,
+      "H_norm": 0.732,
+      "clase": "resto"
+    },
+    {
+      "term": "cuando",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 25,
+      "H_norm": 0.597,
+      "clase": "resto"
+    },
+    {
+      "term": "sistema",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 24,
+      "H_norm": 0.708,
+      "clase": "resto"
+    },
+    {
+      "term": "correos electrónicos",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 23,
+      "H_norm": 0.72,
+      "clase": "resto"
+    },
+    {
+      "term": "electrónicos",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 23,
+      "H_norm": 0.72,
+      "clase": "resto"
+    },
+    {
+      "term": "lugar",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 21,
+      "H_norm": 0.736,
+      "clase": "resto"
+    },
+    {
+      "term": "decisiones",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 20,
+      "H_norm": 0.732,
+      "clase": "resto"
+    },
+    {
+      "term": "perfil",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 20,
+      "H_norm": 0.73,
+      "clase": "resto"
+    },
+    {
+      "term": "interfaz",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 20,
+      "H_norm": 0.628,
+      "clase": "resto"
+    },
+    {
+      "term": "prospectos",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 20,
+      "H_norm": 0.759,
+      "clase": "resto"
+    },
+    {
+      "term": "soporte",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 20,
+      "H_norm": 0.764,
+      "clase": "resto"
+    },
+    {
+      "term": "personalización",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 19,
+      "H_norm": 0.675,
+      "clase": "resto"
+    },
+    {
+      "term": "así",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 19,
+      "H_norm": 0.764,
+      "clase": "resto"
+    },
+    {
+      "term": "valor",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 19,
+      "H_norm": 0.764,
+      "clase": "resto"
+    },
+    {
+      "term": "momento",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 18,
+      "H_norm": 0.744,
+      "clase": "resto"
+    },
+    {
+      "term": "estrategias",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 17,
+      "H_norm": 0.729,
+      "clase": "resto"
+    },
+    {
+      "term": "algunas",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 17,
+      "H_norm": 0.697,
+      "clase": "resto"
+    },
+    {
+      "term": "empleados",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 17,
+      "H_norm": 0.719,
+      "clase": "resto"
+    },
+    {
+      "term": "crecimiento",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 17,
+      "H_norm": 0.749,
+      "clase": "resto"
+    },
+    {
+      "term": "objetivo",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 15,
+      "H_norm": 0.79,
+      "clase": "resto"
+    },
+    {
+      "term": "muchas",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 15,
+      "H_norm": 0.763,
+      "clase": "resto"
+    },
+    {
+      "term": "plataformas",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 14,
+      "H_norm": 0.768,
+      "clase": "resto"
+    },
+    {
+      "term": "recordatorios",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 14,
+      "H_norm": 0.744,
+      "clase": "resto"
+    },
+    {
+      "term": "conocer",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 13,
+      "H_norm": 0.776,
+      "clase": "resto"
+    },
+    {
+      "term": "organización",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 13,
+      "H_norm": 0.792,
+      "clase": "resto"
+    },
+    {
+      "term": "capacidad",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 13,
+      "H_norm": 0.776,
+      "clase": "resto"
+    },
+    {
+      "term": "importantes",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 12,
+      "H_norm": 0.772,
+      "clase": "resto"
+    },
+    {
+      "term": "ventajas",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 12,
+      "H_norm": 0.772,
+      "clase": "resto"
+    },
+    {
+      "term": "dentro",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 11,
+      "H_norm": 0.787,
+      "clase": "resto"
+    },
+    {
+      "term": "adapta",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 11,
+      "H_norm": 0.769,
+      "clase": "resto"
+    },
+    {
+      "term": "automática",
+      "cobertura": 0.62,
+      "paginas": 8,
+      "frecuencia_total": 9,
+      "H_norm": 0.797,
+      "clase": "resto"
+    },
+    {
+      "term": "gestión clientes",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 189,
+      "H_norm": 0.825,
+      "clase": "resto"
+    },
+    {
+      "term": "mes",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 88,
+      "H_norm": 0.592,
+      "clase": "resto"
+    },
+    {
+      "term": "mejor crm",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 72,
+      "H_norm": 0.916,
+      "clase": "resto"
+    },
+    {
+      "term": "automatización marketing",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 70,
+      "H_norm": 0.769,
+      "clase": "resto"
+    },
+    {
+      "term": "crm herramienta",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 60,
+      "H_norm": 0.871,
+      "clase": "resto"
+    },
+    {
+      "term": "equipos ventas",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 53,
+      "H_norm": 0.772,
+      "clase": "resto"
+    },
+    {
+      "term": "precios",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 51,
+      "H_norm": 0.593,
+      "clase": "resto"
+    },
+    {
+      "term": "mejores crm",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 50,
+      "H_norm": 0.831,
+      "clase": "resto"
+    },
+    {
+      "term": "gestión relación",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 48,
+      "H_norm": 0.784,
+      "clase": "resto"
+    },
+    {
+      "term": "potenciales",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 46,
+      "H_norm": 0.567,
+      "clase": "resto"
+    },
+    {
+      "term": "relación clientes",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 45,
+      "H_norm": 0.78,
+      "clase": "resto"
+    },
+    {
+      "term": "gratis",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 45,
+      "H_norm": 0.691,
+      "clase": "resto"
+    },
+    {
+      "term": "leads",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 45,
+      "H_norm": 0.644,
+      "clase": "resto"
+    },
+    {
+      "term": "españa",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 42,
+      "H_norm": 0.542,
+      "clase": "resto"
+    },
+    {
+      "term": "características",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 40,
+      "H_norm": 0.596,
+      "clase": "resto"
+    },
+    {
+      "term": "campañas marketing",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 40,
+      "H_norm": 0.752,
+      "clase": "resto"
+    },
+    {
+      "term": "soluciones crm",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 38,
+      "H_norm": 0.868,
+      "clase": "resto"
+    },
+    {
+      "term": "plataforma",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 36,
+      "H_norm": 0.624,
+      "clase": "resto"
+    },
+    {
+      "term": "gratuito",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 31,
+      "H_norm": 0.615,
+      "clase": "resto"
+    },
+    {
+      "term": "pueden",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 30,
+      "H_norm": 0.645,
+      "clase": "resto"
+    },
+    {
+      "term": "pequeñas empresas",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 29,
+      "H_norm": 0.707,
+      "clase": "resto"
+    },
+    {
+      "term": "opciones",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 27,
+      "H_norm": 0.688,
+      "clase": "resto"
+    },
+    {
+      "term": "comparativa",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 27,
+      "H_norm": 0.662,
+      "clase": "resto"
+    },
+    {
+      "term": "gestión proyectos",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 23,
+      "H_norm": 0.672,
+      "clase": "resto"
+    },
+    {
+      "term": "proyectos",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 23,
+      "H_norm": 0.672,
+      "clase": "resto"
+    },
+    {
+      "term": "usar",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 22,
+      "H_norm": 0.7,
+      "clase": "resto"
+    },
+    {
+      "term": "mismo",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 21,
+      "H_norm": 0.621,
+      "clase": "resto"
+    },
+    {
+      "term": "flujos",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 20,
+      "H_norm": 0.666,
+      "clase": "resto"
+    },
+    {
+      "term": "función",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 20,
+      "H_norm": 0.654,
+      "clase": "resto"
+    },
+    {
+      "term": "etc",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 20,
+      "H_norm": 0.633,
+      "clase": "resto"
+    },
+    {
+      "term": "conversión",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 20,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "sistemas",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 19,
+      "H_norm": 0.688,
+      "clase": "resto"
+    },
+    {
+      "term": "visión",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 19,
+      "H_norm": 0.669,
+      "clase": "resto"
+    },
+    {
+      "term": "facilita",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.652,
+      "clase": "resto"
+    },
+    {
+      "term": "inglés",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 18,
+      "H_norm": 0.597,
+      "clase": "resto"
+    },
+    {
+      "term": "presupuestos",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 17,
+      "H_norm": 0.687,
+      "clase": "resto"
+    },
+    {
+      "term": "aplicaciones",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 17,
+      "H_norm": 0.653,
+      "clase": "resto"
+    },
+    {
+      "term": "servicios",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 17,
+      "H_norm": 0.687,
+      "clase": "resto"
+    },
+    {
+      "term": "chat",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 17,
+      "H_norm": 0.655,
+      "clase": "resto"
+    },
+    {
+      "term": "completo",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 17,
+      "H_norm": 0.711,
+      "clase": "resto"
+    },
+    {
+      "term": "tomar",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 16,
+      "H_norm": 0.739,
+      "clase": "resto"
+    },
+    {
+      "term": "etapas",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 16,
+      "H_norm": 0.614,
+      "clase": "resto"
+    },
+    {
+      "term": "cuál",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 16,
+      "H_norm": 0.684,
+      "clase": "resto"
+    },
+    {
+      "term": "colaboración",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.668,
+      "clase": "resto"
+    },
+    {
+      "term": "hay",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.668,
+      "clase": "resto"
+    },
+    {
+      "term": "varios",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 15,
+      "H_norm": 0.616,
+      "clase": "resto"
+    },
+    {
+      "term": "tienes",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.638,
+      "clase": "resto"
+    },
+    {
+      "term": "canales",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.72,
+      "clase": "resto"
+    },
+    {
+      "term": "necesitan",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.689,
+      "clase": "resto"
+    },
+    {
+      "term": "ser",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 14,
+      "H_norm": 0.674,
+      "clase": "resto"
+    },
+    {
+      "term": "tienen",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 13,
+      "H_norm": 0.719,
+      "clase": "resto"
+    },
+    {
+      "term": "2024",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 13,
+      "H_norm": 0.667,
+      "clase": "resto"
+    },
+    {
+      "term": "sitio",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 13,
+      "H_norm": 0.709,
+      "clase": "resto"
+    },
+    {
+      "term": "organizar",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 13,
+      "H_norm": 0.709,
+      "clase": "resto"
+    },
+    {
+      "term": "oportunidad",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "acceder",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.699,
+      "clase": "resto"
+    },
+    {
+      "term": "inteligencia",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.71,
+      "clase": "resto"
+    },
+    {
+      "term": "notas",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.682,
+      "clase": "resto"
+    },
+    {
+      "term": "gran",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 12,
+      "H_norm": 0.727,
+      "clase": "resto"
+    },
+    {
+      "term": "miembros",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 11,
+      "H_norm": 0.689,
+      "clase": "resto"
+    },
+    {
+      "term": "amplia",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 11,
+      "H_norm": 0.701,
+      "clase": "resto"
+    },
+    {
+      "term": "personalizar",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 11,
+      "H_norm": 0.738,
+      "clase": "resto"
+    },
+    {
+      "term": "existen",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 11,
+      "H_norm": 0.72,
+      "clase": "resto"
+    },
+    {
+      "term": "problemas",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 11,
+      "H_norm": 0.738,
+      "clase": "resto"
+    },
+    {
+      "term": "sitio web",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 11,
+      "H_norm": 0.72,
+      "clase": "resto"
+    },
+    {
+      "term": "empresarial",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 10,
+      "H_norm": 0.682,
+      "clase": "resto"
+    },
+    {
+      "term": "impulsar",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 10,
+      "H_norm": 0.736,
+      "clase": "resto"
+    },
+    {
+      "term": "mucho",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 10,
+      "H_norm": 0.715,
+      "clase": "resto"
+    },
+    {
+      "term": "vez",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 10,
+      "H_norm": 0.736,
+      "clase": "resto"
+    },
+    {
+      "term": "encontrar",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 9,
+      "H_norm": 0.714,
+      "clase": "resto"
+    },
+    {
+      "term": "bien",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 9,
+      "H_norm": 0.737,
+      "clase": "resto"
+    },
+    {
+      "term": "diseñado",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 9,
+      "H_norm": 0.737,
+      "clase": "resto"
+    },
+    {
+      "term": "diferencia",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 8,
+      "H_norm": 0.743,
+      "clase": "resto"
+    },
+    {
+      "term": "registros",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 8,
+      "H_norm": 0.743,
+      "clase": "resto"
+    },
+    {
+      "term": "directo",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 8,
+      "H_norm": 0.743,
+      "clase": "resto"
+    },
+    {
+      "term": "decisión",
+      "cobertura": 0.54,
+      "paginas": 7,
+      "frecuencia_total": 7,
+      "H_norm": 0.759,
+      "clase": "resto"
+    },
+    {
+      "term": "clientes crm",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 228,
+      "H_norm": 0.857,
+      "clase": "resto"
+    },
+    {
+      "term": "gestión ventas",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 167,
+      "H_norm": 0.837,
+      "clase": "resto"
+    },
+    {
+      "term": "marketing ventas",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 141,
+      "H_norm": 0.886,
+      "clase": "resto"
+    },
+    {
+      "term": "herramientas crm",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 101,
+      "H_norm": 0.855,
+      "clase": "resto"
+    },
+    {
+      "term": "datos clientes",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 89,
+      "H_norm": 0.847,
+      "clase": "resto"
+    },
+    {
+      "term": "crm permite",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 74,
+      "H_norm": 0.857,
+      "clase": "resto"
+    },
+    {
+      "term": "crm zoho",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 67,
+      "H_norm": 0.789,
+      "clase": "resto"
+    },
+    {
+      "term": "gestión comercial",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 64,
+      "H_norm": 0.622,
+      "clase": "resto"
+    },
+    {
+      "term": "leer",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 55,
+      "H_norm": 0.553,
+      "clase": "resto"
+    },
+    {
+      "term": "mejor software",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 52,
+      "H_norm": 0.899,
+      "clase": "resto"
+    },
+    {
+      "term": "equipo comercial",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 48,
+      "H_norm": 0.77,
+      "clase": "resto"
+    },
+    {
+      "term": "clientes potenciales",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 46,
+      "H_norm": 0.567,
+      "clase": "resto"
+    },
+    {
+      "term": "español",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 43,
+      "H_norm": 0.645,
+      "clase": "resto"
+    },
+    {
+      "term": "seguimiento interacciones",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 40,
+      "H_norm": 0.798,
+      "clase": "resto"
+    },
+    {
+      "term": "oportunidades venta",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 38,
+      "H_norm": 0.805,
+      "clase": "resto"
+    },
+    {
+      "term": "cuáles",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 38,
+      "H_norm": 0.429,
+      "clase": "resto"
+    },
+    {
+      "term": "cuáles son",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 38,
+      "H_norm": 0.429,
+      "clase": "resto"
+    },
+    {
+      "term": "prueba",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 37,
+      "H_norm": 0.542,
+      "clase": "resto"
+    },
+    {
+      "term": "gracias",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 36,
+      "H_norm": 0.549,
+      "clase": "resto"
+    },
+    {
+      "term": "proceso ventas",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 35,
+      "H_norm": 0.824,
+      "clase": "resto"
+    },
+    {
+      "term": "mejores software",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 31,
+      "H_norm": 0.841,
+      "clase": "resto"
+    },
+    {
+      "term": "pago",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 29,
+      "H_norm": 0.539,
+      "clase": "resto"
+    },
+    {
+      "term": "antes",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 29,
+      "H_norm": 0.483,
+      "clase": "resto"
+    },
+    {
+      "term": "fácil",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 28,
+      "H_norm": 0.632,
+      "clase": "resto"
+    },
+    {
+      "term": "otras herramientas",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 25,
+      "H_norm": 0.823,
+      "clase": "resto"
+    },
+    {
+      "term": "disponibles",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 22,
+      "H_norm": 0.581,
+      "clase": "resto"
+    },
+    {
+      "term": "acciones",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 22,
+      "H_norm": 0.62,
+      "clase": "resto"
+    },
+    {
+      "term": "comunicación",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 21,
+      "H_norm": 0.64,
+      "clase": "resto"
+    },
+    {
+      "term": "flujos trabajo",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 20,
+      "H_norm": 0.666,
+      "clase": "resto"
+    },
+    {
+      "term": "nube",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 19,
+      "H_norm": 0.435,
+      "clase": "resto"
+    },
+    {
+      "term": "dos",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.556,
+      "clase": "resto"
+    },
+    {
+      "term": "toda",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.641,
+      "clase": "resto"
+    },
+    {
+      "term": "diferentes",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 18,
+      "H_norm": 0.631,
+      "clase": "resto"
+    },
+    {
+      "term": "tres",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 17,
+      "H_norm": 0.572,
+      "clase": "resto"
+    },
+    {
+      "term": "manera",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 17,
+      "H_norm": 0.667,
+      "clase": "resto"
+    },
+    {
+      "term": "cabo",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.589,
+      "clase": "resto"
+    },
+    {
+      "term": "general",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 16,
+      "H_norm": 0.532,
+      "clase": "resto"
+    },
+    {
+      "term": "poder",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.551,
+      "clase": "resto"
+    },
+    {
+      "term": "medianas",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.619,
+      "clase": "resto"
+    },
+    {
+      "term": "compra",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.639,
+      "clase": "resto"
+    },
+    {
+      "term": "registro",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "tamaño",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 15,
+      "H_norm": 0.659,
+      "clase": "resto"
+    },
+    {
+      "term": "ideal",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 14,
+      "H_norm": 0.643,
+      "clase": "resto"
+    },
+    {
+      "term": "erp",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.594,
+      "clase": "resto"
+    },
+    {
+      "term": "asistencia",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.652,
+      "clase": "resto"
+    },
+    {
+      "term": "embudo",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.652,
+      "clase": "resto"
+    },
+    {
+      "term": "toma",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.618,
+      "clase": "resto"
+    },
+    {
+      "term": "toma decisiones",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 13,
+      "H_norm": 0.618,
+      "clase": "resto"
+    },
+    {
+      "term": "útil",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.637,
+      "clase": "resto"
+    },
+    {
+      "term": "permiten",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.637,
+      "clase": "resto"
+    },
+    {
+      "term": "varias",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.6,
+      "clase": "resto"
+    },
+    {
+      "term": "diversas",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.648,
+      "clase": "resto"
+    },
+    {
+      "term": "presupuesto",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.682,
+      "clase": "resto"
+    },
+    {
+      "term": "número",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.6,
+      "clase": "resto"
+    },
+    {
+      "term": "centralizar",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 12,
+      "H_norm": 0.648,
+      "clase": "resto"
+    },
+    {
+      "term": "business",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.671,
+      "clase": "resto"
+    },
+    {
+      "term": "estado",
+      "cobertura": 0.46,
+      "paginas": 6,
+      "frecuencia_total": 11,
+      "H_norm": 0.671,
+      "clase": "resto"
+    }
+  ]
+}
